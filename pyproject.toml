@@ -25,8 +25,11 @@ neo4j = "5.19.0"
 neomodel = "^5.3.0"
 logging = "^0.4.9.6"
 openai = "^1.28.0"
+streamlit = "1.23.1"
+streamlit-chat = "0.0.2.2"
+streamlit-chat-media = "0.0.4"
+langchain-openai = "^0.1.17"
 knowledge-graph-maker = "^0.1.0"
-
 
 [build-system]
 requires = ["poetry-core"]
