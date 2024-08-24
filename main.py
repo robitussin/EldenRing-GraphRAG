@@ -14,10 +14,10 @@ import os
 # dotenv.load_dotenv()
 
 # OpenAI API configuration
-os.environ["OPENAI_API_KEY"] = os.getenv("OPEN_API_KEY")
+os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 
 llm = ChatOpenAI(
-    model="gpt-4o",
+    model="gpt-4o-mini",
     temperature=0,
     max_tokens=None,
     timeout=None,
@@ -35,7 +35,7 @@ llm = ChatOpenAI(
 
 neo4j_url = "bolt://localhost:7687"
 neo4j_user = "neo4j"
-neo4j_password = "abc123456"
+neo4j_password = "12345678"
 
 # Cypher generation prompt
 cypher_generation_template = """
