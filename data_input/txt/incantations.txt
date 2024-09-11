@@ -1,0 +1,98 @@
+name,effects
+Ancient Dragons' Lightning Strike,Summons red lightning that spreads from impact
+Aspects Of The Crucible: Horns,creates shoulder horn to gore foes from a low stance.
+Agheel's Flame,Spews flame breath of Agheel from above
+Aspects Of The Crucible: Tail,Creates supple tail to sweep area before caster
+Barrier Of Gold,Greatly increases magic damage negation for self & allies
+Ancient Dragons' Lightning Spear,Stabs with red lightning spear from above
+Beast Claw,Creates claws that tear through the land.
+Aspect Of The Crucible: Breath,Creates throat pouch to spew fire while walking
+Bestial Constitution,Alleviates blood loss and frost buildup
+Bestial Sling,Swiftly flings numerous sharp rock shards
+Black Blade,Black blade spinning slash that emits wave of light.
+Black Flame Ritual,Summons circle of black flame pillars around caster.
+Black Flame,Throws a ball of raging black fire
+Black Flame Blade,Enchants right-hand armament with black flame
+Bestial Vitality,Heals HP over a period of time
+Black Flame's Protection,Increases phyiscal damage negation
+Blessing's Boon,Grants blessing to self and nearby allies
+Blessing Of The Erdtree,Grants greater blessing to self and nearby allies
+Bloodflame Blade,Enchants right-hand armament with bloodflame
+Bloodflame Talons,Creates bloodflame lacerations that then explode
+Bloodboon,Scatters bloodflame before caster to set area aflame.
+Borealis's Mist,Spews icy breath of Borealis from above
+Cure Poison,Cures Poison ailment and reduces poison build-up.
+Burn O Flame!,Raises a series of flame pillars around caster
+Darkness,Creates area of darkness that conceals caster
+Death Lightning,Strikes surroundings with storm of death lightning
+Discus Of Light,Fires ring of light before the caster
+Divine Fortification,Increases holy damage negation.
+Dragonbolt Blessing,Bolsters caster's body with lightning
+Dragonice,Channels dragon to spew icy breath
+Dragonclaw,Channels dragon to rend foes with dragon claws
+Dragonfire,Channels dragon to spew flame breath
+Dragonmaw,Channels dragon to bite foes before caster
+Ekzyke's Decay,Spews scarlet rot breath of Ekzykes from above.
+Ekzykes's Decay,Spews scarlet rot breath of Ekzykes from above
+Fire's Deadly Sin,Sets area and self ablaze with raging flames
+Erdtree Heal,Vastly heals HP for self and nearby allies
+"Flame, Fall Upon Them",Hurls several balls of fire at once
+Ezykes's Decay,???
+Electrify Armament,Enchants right-hand armament with lightning damage
+Flame Fortification,Increases fire damage negation.
+Flame Of The Fell God,Summons raging fireball that explodes and sets the area ablaze
+Elden Stars,Creates a steam of golden shooting stars that assail the area.
+"Flame, Protect Me",Greatly increases fire damage negation
+Fortissax's Lightning Spear,Stabs from above with two red lightning spears in tandem
+Frozen Lightning Spear,Stabs with ice lightning spear from above
+Glintstone Breath,Channels dragon to spew icy breath.
+Golden Lightning Fortification,Greatly increases lightning resistance for self and allies
+Frenzied Burst,Emits concentrated blast of yellow flame of frenzy from eyes
+Giantsflame Take Thee,Hurls massive ball of raging fire
+Golden Vow (spell),Increases attack and defense for self and allies
+Gurrang's Beast Claw,Creates beast claws to rend surroundings with shockwaves
+Immutable Shield,Increases left-hand shield's affinity/ailment resistance
+Heal,Heals HP for you and nearby allies.
+Howl Of Shabriri,"Shrieks, building up madness in nearby foes"
+Great Heal,Greatly Heals HP for self and nearby allies
+Greyoll's Roar,Emits the roar of Elder Dragon Greyoll.
+Inescapable Frenzy,Latches onto foes to spread madness
+Honed Bolt,Strikes foe with lightning bolt from above
+Lansseax's Glaive,Sweeps from above with red lightning glaive.
+Lightning Fortification,Increass lighting damage negation
+Lord's Aid,Alleviates poison / blood loss / sleep buildup for self / allies
+Lightning Spear,Hurls lightning spear before caster
+Law Of Causality,Retaliates upon receiving a number of blows
+Litany Of Proper Death,Creates image of Order to deal holy damage
+Law Of Regression,Heals all ailments and dispels all special effects
+Lightning Strike,Summons lightning bolt that spreads from impact.
+Lord's Divine Fortification,Greatly increases holy damage negation incl. allies
+Lord's Heal,Massively heals HP for self and nearby allies
+Order Healing,Alleviates death blight buildup
+Noble Presence,Thrust out belly with gusto to unelash repelling shockwave
+Order's Blade,Enchanted right-hand armament with holy damage
+Magic Fortification,Increases magic damage negation
+"O, Flame!",Momentarily sparks roaring flame from hand
+Magma Breath,Channels wyrm to spew magma breath
+Pest Threads,Launches countless sticky threads before caster
+Protection Of The Erdtree,Increases affinity damage negation for self & allies
+Placidusax's Ruin,Spews golden breath of Dragonlord Placidusax
+Poison Mist,Releases poison mist before caster.
+Radagon's Rings Of Light,Creates golden ring of light to attack wide area
+Rotten Breath,Channels dragon to spew scarlet rot breath
+Rejection,Produces a shockwave that pushes away foes.
+Smarag's Glintstone Breath,Spews magic breath of Glintstone Dragon Smarag from above
+Stone Of Gurranq,Hurls a boulder before the caster
+"Surge, O Flame!",Incinerates area before caster with stream of fire
+Shadow Bait,Creates shadow that lures the aggression of foes of human build
+Scouring Black Flame,Sweeps area before caster with black flame
+Scarlet Aeonia,Creates a giant flower that explodes with scarlet rot.
+Swarm Of Flies,Releases a swarm of bloodflies before the caster
+The Flame Of Frenzy,Emits burst of yellow flame of frenzy from eyes
+Theodorix's Magma,Spews magma breath of Theodorix from above
+Unendurable Frenzy,Emits violent burst of yellow flame of frenzy from eyes.
+Triple Rings Of Light,Fire three rings of light before the caster
+"Whirl, O Flame!",Sweeps area before caster with stream of fire
+Vyke's Dragonbolt,Enchants right-hand armament with lightning damage
+Urgent Heal,Heals a small amount of HP.
+Wrath Of Gold,Produces golden shockwave that knocks back foes

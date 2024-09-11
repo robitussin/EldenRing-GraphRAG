@@ -24,7 +24,7 @@ class AgenticChunker:
         if openai_api_key is None:
             raise ValueError("API key is not provided and not found in environment variables")
 
-        self.llm = ChatOpenAI(model='gpt-4-1106-preview', openai_api_key=openai_api_key, temperature=0)
+        self.llm = ChatOpenAI(model='gpt-4o-mini', openai_api_key=openai_api_key, temperature=0)
 
     def add_propositions(self, propositions):
         for proposition in propositions:

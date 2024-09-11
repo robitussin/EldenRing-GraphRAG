@@ -1,0 +1,88 @@
+name,description,effect
+Arrow's Sting Talisman,A talisman depicting three iron arrows. Carried by soldiers long ago.,Raises attack power of arrows and bolts
+Arsenal Charm,"An iron charm that resembles a mass of weaponry. Boosts maximum equipment load. This talisman was derived from an unusual greatsword, once wielded by a hero hungry for vengeance.",Raises maximum equipment load
+Assassin's Cerulean Dagger,"An assassin's dagger, misshapen and stained in cerulean. Critical hits restore FP.",Critical hits restore FP
+Assassin's Crimson Dagger,"An assassin's dagger, misshapen and stained in crimson. Critical hits restore HP.",Critical hits restore HP
+Arrow's Reach Talisman,A talisman depicting three arrows. Carried by hunters of beasts.,Increases bow effective range.
+Axe Talisman,A talisman depicting an axe and a warrior. Enhances charge attacks.,Enhances charge attacks.
+Boltdrake Talisman,Talisman depicting a yellow ancient dragon. Boosts lightning damage negation.,Boosts lightning damage negation.
+Blue Dancer Charm,A cloth doll depicting a dancer garbed in blue. An ancient heirloom of some sort.,Raises attack power with lower equipment load
+Blessed Dew Talisman,"Talisman depicting a drop of the Erdtree's sap, a blessed boon.",Slowly restores HP.
+Bull-goat's Talisman,A talisman depicting the horns of a bull-goat. Raises poise.,Raises Poise
+Cerulean Amber Medallion,A medallion with cerulean amber inlaid. Boosts maximum FP.,Raises maximum FP
+Carian Filigreed Crest,A talisman adorned with the royal crest.,Lowers FP consumed by skills
+Cerulean Seed Talisman,A cerulean-colored talisman patterned after an Erdtree seed. Boosts FP restoration from the Flask of Cerulean Tears.,Boosts FP restoration from Flask of Cerulean Tears
+Clarifying Horn Charm,An accoutrement worn by the ancestral followers. Raises focus. (Focus governs resistance to sleep and madness.),Raises Focus
+Claw Talisman,A talisman depicting a claw and an assassin. Enhances jump attacks.,Enhances jump attacks.
+Crucible Knot Talisman,A talisman fashioned from a bony knot that embodies that aspects of various creatures. Said to have grown on the human body long ago.,Reduces damage and impact of headshots
+Crimson Amber Medallion,"A medallion with Crimson amber inlaid. Boosts maximum HP. The Erdtree's old sap becomes amber, treasured as the most precious of jewels in the age of Godfrey, the first Elden Lord. A primordial life energy resides inside",Raises maximum HP
+Crucible Scale Talisman,A talisman fashioned from a scale that embodies the aspects of various creatures. Said to have grown on the human body long ago.,Reduces damage taken from critical hits
+Crepus's Vial,Small mysterious bottle with a dark mist sealed within.,Eliminates all sound made by the wearer during movement
+Curved Sword Talisman,A talisman depicting a curved sword and a swordsman. Enhances guard counters.,Enhances guard counters.
+Dragoncrest Shield Talisman,Wrought iron talisman depicting a trio of ancient dragons. Boosts physical damage negation.,Boosts physical damage negation
+Flamedrake Talisman,Talisman depicting a red ancient dragon. Boosts fire damage negation.,Boosts fire damage negation.
+Fire Scorpion Charm,"A talisman carried by assassins who strike unseen. Patterned on a scorpion freshly shed of its exoskeleton, its claws seizing a heart that burns with fire.","Raises fire attack, but lowers damage negation"
+Godskin Swaddling Cloth,"Sacred cloth of the Godskin Apostles, made from supple skin sewn together.",Successive attacks restore HP
+Faithful's Canvas Talisman,A talisman bearing an icon that depicts a group of masked figures. Raises potency of incantations.,Raises potency of Incantations
+Great-jar's Arsenal,A charm that resembles a great jar overflowing with weaponry. Vastly boosts maximum equipment load.,Vastly Raises maximum equip load (~19%)
+Haligdrake Talisman,Talisman depicting a golden ancient dragon. Boosts holy damage negation.,Boosts holy damage negation.
+Green Turtle Talisman,A talisman in the shape of a green turtle. Raises stamina recovery speed.,Raises stamina recovery speed.
+Hammer Talisman,A talisman depicting a hammer and a knight. Enhances stamina-reducing attacks against a blocking opponent.,Enhances stamina-reducing attacks against blockers.
+Immunizing Horn Charm,An accountrement worn by the ancestral followers. Raises immunity. (Immunity governs resistance to poison and rot.),Raises Immunity
+Kindred Of Rot's Exultation,A talisman depicting the exultation of pests.,Poisoning or rot in vicinity increases attack power
+Lightning Scorpion Charm,"A talisman carried by assassins who strike unseen. Patterned on a scorpion freshly shed of its exoskeleton, its claws seizing a heart that sparks with lightning.","Raises lightning attack, but lowers damage negation"
+Longtail Cat Talisman,"A brooch depicting Lacrima, the long-tailed cat.",Renders the wearer immune to fall damage
+Marika's Scarseal,An eye engraved with an Elden Rune. Said to be the seal of Queen Marika.,"Raises attributes, but also increases damage taken"
+Lord Of Blood's Exultation,A talisman depicting the exultation of the Lord of Blood.,Enhances critical hits
+Mottled Necklace,A vividly-colored accoutrement precious to the ancestral followers.,"Raises Robustness, Immunity, and Focus"
+Moon Of Nokstella,"This legendary talisman is a treasure of Nokstella, the Eternal City.",Increases memory slots by 2
+Old Lord's Talisman,A legendary talisman depicting the ancient king whose seat lies at the heart of the storm beyond time.,Extends spell effect duration
+Pearldrake Talisman,Talisman depicting a pearlescent ancient dragon. Boosts non-physical damage negation.,Boosts non-physical damage negation.
+Primal Glintstone Blade,An old glintstone blade that has been stained with blood.,"Spells consume less FP, but maximum HP is reduced"
+Prince Of Death's Pustule,A fetid pustule taken from facial flesh. Raises vitality. (Vitality governs resistance to the effects of Death.),Raises Vitality
+Radagon Icon,A legendary talisman depicting the Elden Lord Radagon. Shortens the casting time of sorceries and incantations.,Shortens spell casting time
+Radagon's Scarseal,An eye engraved with an Elden Rune. Said to be the seal of King Consort Radagon.,"Raises attributes, but also increases damage taken."
+Radagon's Soreseal,"This legendary talisman is an eye engraved with an Elden Rune, said to be the seal of King Consort Radagon.","Greatly raises attributes, but also increases damage taken"
+Sacred Scorpion Charm,"A talisman carried by assassins who strike unseen. Patterned on a scorpion freshly shed of its exoskeleton, its claws seizing a heart with a blessed glow.","Raises holy attack, but lowers damage negation."
+Sacrificial Twig,"A talisman fashioned from a dried twig, so slender that it might snap at the slightest touch.",Will be lost on death in place of runes.
+Shabriri's Woe,Disturbing likeness of a man whose eyes have been gouged out. The corners of his mouth are upturned in an almost flirtatious manner.,Constantly attracts enemies' aggression
+Spelldrake Talisman,Talisman depicting a blue ancient dragon. Boosts magic damage negation.,Boosts magical damage negation.
+Stargazer Heirloom,A talisman engraved with the legend of a queen. Raises intelligence.,Raises intelligence by 5.
+Twinblade Talisman,A talisman depicting a twinblade and a confessor. Enhances the final hit ending a chain of attacks.,Enhances final hit of chain attacks.
+Taker's Cameo,"A talisman engraved with a stern likeness of Praetor Rykard, master of Volcano Manor.",Restores HP upon defeating enemies
+Starscourge Heirloom,A talisman engraved with a scene from a heroic tale. Raises strength.,Raises strength
+Viridian Amber Medallion,"A medallion with viridian amber inlaid. Boosts maximum stamina. The Erdtree's old sap becomes amber, treasured as the most precious of jewels in the age of Godfrey, the first Elden Lord. A primordial life energy resides inside",Raises maximum stamina
+Two Fingers Heirloom,A talisman engraved with the legend of the Two Fingers. Raises faith.,Raises faith by 5.
+Winged Sword Insignia,A talisman depicting a raised prosthetic blade. An honor bestowed upon the knights who fought alongside Malenia the Severed.,Raises attack power with successive attacks
+Erdtree's Favor,"A talisman depicting a special blessing of the Erdtree. Slightly raises maximum HP, stamina, and equip load.","Raises maximum HP, stamina and equip load"
+Crimson Seed Talisman,A crimson-colored talisman patterned after an Erdtree seed. Boosts HP restoration from the Flask of Crimson Tears.,Boosts HP regeneration from Flask of Crimson Tears
+Graven-school Talisman,"A talisman depicting a school of graven mages, the nightmare of the academy.",Raises potency of sorceries
+Godfrey Icon,"A legendary talisman depicting the Elden Lord Godfrey. Raises charge attack power of sorceries, incantations, and skills.",Enhances charged spells and skills.
+Lance Talisman,A talisman depicting a lance and a knight. Enhances attacks while on horseback.,Enhances attacks on horseback
+Graven-mass Talisman,"A talisman depicting the first school of graven mages — a nightmare that would continue to haunt the academy.  Greatly raises potency of sorceries.  The primeval current is a forbidden tradition of glintstone sorcery. To those who cleave to its teachings, the act of collecting sorcerers to fashion them into the seeds of stars is but another path of scientific inquiry.",Greatly raises potency of sorceries.
+Ancestral Spirit's Horn,Item cut from the horns of the Regal Ancestor Spirit.,Restores FP upon defeating enemies
+Stalwart Horn Charm,"An accoutrement worn by the ancestral followers. Greatly raises robustness. (Robustness governs resistance to blood loss and frost.)  Said to be a budding horn. The ancestral followers believe that the horns of a long-lived beast continue to bud like antlers, over and over again, until the beast one day becomes an ancestral spirit.",Greatly raises robustness
+Dragoncrest Greatshield Talisman,Legendary talisman of wrought iron depicting a massive ancient dragon. Enormously boosts physical damage negation.,Enormously boosts physical damage negation
+Marika's Soreseal,"This legendary talisman is an eye engraved with an Elden Rune, said to be the seal of Queen Marika.","Greatly raises attributes, but also increases damage taken."
+Gold Scarab,"A talisman facsimile of a scarab, the carrier of treasures and precious things.",Increases runes obtained from
+Ritual Sword Talisman,A talisman patterned after swords used in ritual combat held to honor the Erdtree.,Raises attack power when HP is at maximum.
+Ritual Shield Talisman,A talisman patterned after shields used in ritual combat held to honor the Erdtree.,Raises defense when HP is at maximum.
+Perfumer's Talisman,A talisman depicting a set of perfume bottles. Raises potency of perfume items.,Raises potency of perfume items
+Blue-feathered Branchsword,"A talisman adorned with blue feathers, once used in ancient death rituals.",Raises defense when HP is low.
+Magic Scorpion Charm,"A talisman carried by assassins who strike unseen. Patterned on a scorpion freshly shed of its exoskeleton, its claws seizing a heart that shimmers with magic.","Raises magic attack, but lowers damage negation"
+Prince Of Death's Cyst,"A fetid, overgrown cyst taken from facial flesh. Greatly raises vitality. (Vitality governs resistance to the effects of Death.)",Greatly raises vitality
+Warrior Jar Shard,Shard of a shattered warrior jar.,Boosts the attack power of skills.
+Shard Of Alexander,"Shard of the late Alexander, a shattered warrior jar.",Greatly boosts the attack power of skills.
+Greatshield Talisman,Talisman depicting a knight holding a greatshield. Boosts guarding ability.,Boosts guarding ability.
+Millicent's Prosthesis,Part of the golden prosthesis used by Millicent. The hand is locked into a fist that once raised a sword aloft.,"Boosts dexterity, raises attack power with successive attacks"
+Spear Talisman,A talisman depicting a spear and a soldier. Enhances the counterattacks that are unique to thrusting weapons.,Enhances counterattacks unique to thrusting weapons
+Dagger Talisman,A talisman depicting a dagger and a surgeon. Enhances critical hits.,Enhances critical hits.
+Red-feathered Branchsword,"A talisman adorned with red feathers, once used in ancient death rituals.",Raises attack power when HP is low.
+Companion Jar,A talisman given by the jars to their friends. Raises potency of thrown jars.,Raises potency of throwing pots
+Flock's Canvas Talisman,A talisman bearing an icon that depicts a mass of masked figures. Greatly raises potency of incantations.,Greatly raises potency of Incantations.
+Concealing Veil,Talisman put together from dark cloth with a lustrous sheen,Conceals wearer while crouching away from foes
+Furled Finger's Trick-mirror,"A small, clouded mirror that reflects a flesh-and-blood figure. Makes the bearer take on the appearance of a Host of Fingers One of the ritual implements created by the Tarnished to deceive invaders.",Take on appearance of a Host of Fingers
+Crucible Feather Talisman,A talisman fashioned from feathers that embody the aspects of various creatures. Said to have grown on the human body long ago.,Improves dodge rolling but increases damage taken
+Daedicar's Woe,Disturbing likeness of a woman whose skin was flayed. She smiles with a serene tenderness.,Increases damage taken
+Host's Trick-mirror,"A small, clouded mirror that reflects a flesh-and-blood figure.",Take on appearance of a cooperator
+Entwining Umbilical Cord,Mysterious circular object that's oddly warped. Changes the demeanour of the wearer's actions.,Changes demeanour of wearer's actions

@@ -1,0 +1,107 @@
+name,description
+Abductor Virgins,Deadly mechanical constructs who wield massive blades.
+"Alecto, Black Knife Ringleader",Remarkably agile and aggressive warrior. Dangerous even for those with shield coverage...
+Alecto Black Knife Ringleader,Remarkably agile and aggressive warrior. Dangerous even for those with shield coverage...
+Alabaster Lord,An Evergaol prisoner wielding a vicious sword and the void with murderous intent.
+"Adan, Thief Of Fire","An evergaol prisoner and former battle mage, Adan wields a spiked flail and uses stolen knowledge of fire magic to great effect."
+Ancient Dragon Lansseax,Lansseax was the sister of Fortissax. It is said that she took the from of a human to commune with the knights as a priestess of the ancient dragon cult.
+Ancestor Spirit,"A glowing spirit that takes the form of a large deer, making it a menacing threat when charging at targets."
+Ancient Hero Of Zamor,"Noticeably agile, frost-made creature suceptible to magic attacks."
+Beast Clergyman,"Temporarily overtaken by their bestial rage, the Beast Clergyman attacks ferociously, throwing rocks and themselves at their foes. Calm their aggression and return them to their senses."
+"Astel, Stars Of Darkness","A hostile, massive Dragon-Fly creature. Menacing and extremely powerful."
+Beast Of Farum Azula,Underground-living creature found at Groveside Cave
+Beastman Of Farum Azula,The beasts of Groveside Cave rally around the prowess of the Beastman of Farum Azula
+Bell Bearing Hunter,"Menacing and slow-paced, it wields a large, red-glowing sword and a shield combined with a full body armor and a chilling cape."
+Black Blade Kindred,Imposing Gargoyle wielding a massive armament
+Black Knife Assassin,Relentless and agile dark figures carrying a 
+Bloodhound Knight Darriwil,"The merciless bloodhounds attack with grace and agility, never backing down or giving a moment's rest."
+Burial Tree Watchdog,"A large feline-hound looking guardian that serves as a ""Watchdog""for the Burial Tree of the Stormfoot Catacombs."
+Cleanrot Knight,"Powerful, dexterous Knight capable of distanced, very rapid attacks. Its spear and sword are a threat to any light-armored fighter."
+Borealis The Freezing Fog,"Frost Dragon guarding the frozen lake of Mountaintop of Giants, emits a permanent blizzard."
+Commander Niall,"Commander Niall is a tall and built knight with a peg leg, clad in heavy armor, wielding a halberd that doubles as a battle standard. He is accompanied by two Spectral Banished Knights, one equipped with dual swords and the other equipped with a sword and shield."
+Commander O'neil,"A large and imposing human commander who wields a halberd that doubles as a battle standard, rousing his spirit minions to battle with unquenchable fervor."
+Crucible Knight Ordovis,"Large, heavy and fully armored. With the ability to materialize fiery wings and attack from above. Attacks with the huge power of Ordivis's Greatsword and a Greatshield. Slow, but extremely tough and highly dangerous."
+Crystalians,Crystal energy in the form of a human with devastating power.
+Deathbird,A bipedal bird with arms and a bird skull for a head and is found in various locations
+Decaying Ekzykes,"A pale white dragon — its scales blighted by the same scarlet rot that plagues the region of Caelid. It silently waits along the southern highway, awaiting unsuspecting travelers to fall prey to its deathly onslaught."
+Demi-human Chief,"The darkness of Coastal Cave hides a den of those who may look almost human, but are certainly not."
+Demi-human Queen Maggie,Sovereign Demi-Human creature roaming the lands of Mt. Gelmir
+Divine Bridge Golem,Enormously large and lethargic Golem that slowly storms into battle when it becomes aware of your presence.
+Demi-human Queen Margot,Sovereign Demi-Human creature concealed within isolated caves.
+Draconic Tree Sentinel,Massive knight clad in golden armor atop a giant horse.
+Dragonkin Soldier,"A large, hostile humanoid creature awaken from its drowse straight into battle."
+Cemetery Shade,Amorphous and shadowy being belonging to the catacombs
+Crucible Knight,"A formidable, dexterous fighter skilled in melee combat."
+Dragonkin Soldier Of Nokstella,Huge humanoid-like creature located at the underground caves of Uhl Palace Ruins
+Dragonlord Placidusax,"A massive in size, two-headed dragon capable of immense acts of annihilation."
+Elden Beast,"It is said that long ago, the Greater Will sent a golden star bearing a beast into the Lands Between, which would later become the Elden Ring."
+Elemer Of The Briar,"Wielding the stolen sword from the Marais family, Elemer of the Briar stands at the top of the castle waiting."
+"Esgar, Priest Of Blood",A highly aggressive humanoid priest
+Erdtree Avatar,A large headless create which resembles a tree stump.
+Fallingstar Beast,"A massive quadruped with a long spiky tail and a head reminiscent of a centipede's, with massive mandibles protruding from its face. It behaves much like a bull and appears to have seismic powers, allowing it to control the earth within its chamber."
+Fell Twins,Two bulky ogre-like creatures fighting side by side with red-hot armament
+Fia's Champions,Five invaders summoned in an endurance combat in three waves.
+Flying Dragon Agheel,A feared-by-most massive dragon located within the Dragon-Burnt Ruins in Limgrave
+Fire Giant,"Upon realizing the flames of their forge would never die, Queen Marika, marked him with a curse. ""O trifling giant, mayest thou tend thy, flame for eternity."
+Flying Dragon Greyll,"A large grey dragon, Flying Dragon Greyll patrols the bridge breathing fire and flying down on those trying to cross."
+Frenzied Duelist,A humanoid with heavy armor and a massive axe.
+God-devouring Serpent,"A massive, menacing reptile that poses a remarkable threat."
+Glintstone Dragon Smarag,A fearsome magic dragon with crystalized magic stone for scales. Jealously guards the entrance to the Academy's Crystal Cave.
+Glintstone Dragon Adula,"A powerful and devastating dragon, a menace for all type of fighters."
+Godefroy The Grafted,A member of Godrick the Grafted's family imprisoned by the Dragon Knight during the War of the Shattering.
+Godfrey The Grafted,
+"Godfrey, First Elden Lord (hoarah Loux)",I've given thee courtesy enough. Now I fight as Hoarah Loux. Warrior!
+"Godfrey, First Elden Lord (golden Shade)","Physical form of Godfrey, First Elden Lord"
+Godrick The Grafted,"Godrick the Grafted is the ruler of Stormveil Castle, wielding a large golden axe. He has grafted many arms on his body, a symbol of power to all those who might try to depose him."
+Godskin Apostle,"The apostles, one said to serve Destined Death, are wielders of the god-slaying black flame. But after their defeat by Maliketh, the Black Blade, the source of their power was sealed away."
+Godskin Apostle And Godskin Noble,"They are found in their spirit forms, spawned by the opportunist Spirit-Caller Snail."
+Death Rite Bird,Immense bird skeleton with crow-like features. Rushes to battle from above while wielding a giant spear.
+Godskin Apostle,"The apostles, one said to serve Destined Death, are wielders of the god-slaying black flame. But after their defeat by Maliketh, the Black Blade, the source of their power was sealed away."
+Godskin Noble,The most aggresive of the Godskin.
+Grafted Scion,"An amorphous blob that wields two swords and a shield, and appears to be grafted with multiple arms."
+Great Wyrm Theodorix,A dragon wyrm with immense power.
+"Hoarah Loux, Warrior",Chieftain of the Badland Warriors.
+Kindred Of Rot,"Large, prawn-like creatures skilled at melee combat. Its Pest's Glaive poses a menace when wielded by these agile beings."
+Guardian Golem,"The Guardian Golem, magical constructs that has been cut and chiseled from stone. It is the sole guardian of the Highroad Cave who holds a precious item."
+Godskin Duo,"A complementing pair of creatures extremely well versed in dual-battling. These beings achieve an exceptionally balance in combat, resulting in a devastating synergy."
+Kindred Of Rot,"Large, prawn-like creatures skilled at melee combat. Its Pest's Glaive poses a menace when wielded by these agile beings."
+Leonine Misbegotten,"Aggressive and feral, the Misbegotten sees nothing but rage"
+Lichdragon Fortissax,Massive four winged black dragon with the ability to wield lightning.
+Mad Pumpkin Head,A huge ogre-looking creature that has a large pumpkin helmet worn on its head. It wields a massive flail and seems to be guarding something or someone against intruders.
+Magma Wyrm,"A large lesser dragon with bronze-colored scales covering its body. Magma Wyrms inhabit deep cave systems and volcanos, thriving within lava-flooded environments. "
+Lion Guardian,The Lion Guardian of Stormveil has been coerced into service by cruel means
+"Malenia, Blade Of Miquella",...Heed my words. I am Malenia. Blade of Miquella. And I have never known defeat.
+"Maliketh, The Black Blade","O, Death. Become my blade once more."
+Miranda The Blighted Bloom,A giant poison flower that is deadlier than it looks.
+Mimic Tear,"An eccentric being capable of taking a comprehensive shape of its adversary, ranging from body features to armament."
+Misbegotten Crusader,The Lord of Frenzied Flame.
+"Mohg, Lord Of Blood","Welcome, honored guest. To the birthplace of our Dynasty!"
+"Mohg, The Omen",The Lord of Frenzied Flame
+Magma Wyrm Makar,Aggressive Fire Wyrm guarding the entrance to Altus Plains from any who attempt to bypass the lift
+Necromancer Garris,A humanoid necromancer draped in a red cloth. Efficient in the death sorceries.
+Nox Swordstress & Nox Priest,"A duo of warriors comprised of the female Swordstress, who uses a sword with a whip-like function to attack at medium range and a male Priest who uses spells from afar."
+Night's Cavalry,"Imposing knight figure atop a dark steed, wielding a large flail or halberd."
+Omenkiller,An omninous figure wielding two serrated swords.
+Onyx Lord,"The Onyx Lords, who had skin of stone, were called lords in reverential fear of their destructive power."
+Perfumer Tricia,"A long range spellcaster complemented by an armored, short-distance warrior."
+Putrid Grave Warden Duelist,"Grave Wardens protect the secrets of the ancients, but the corruption of the land has affected them too"
+Pumpkin Head,The breaking disrupted the flora and fauna of the region. Some took a rather intense liking to the larger plants that emerged
+Putrid Tree Spirit,A blood-rotted tree that has found life despite the death that consumes it.
+Radagon Of The Golden Order,"Lord Radagon was a great champion, possessed of flowing red locks. He came to these lands at the head of a great golden host, when he met Lady Rennala in battle. He soon repented his territorial transgressions though, and became husband to the Carian Queen. However. When Godfrey, first Elden Lord, was hounded from the Lands Between, Radagon left Rennala to return to the Erdtree Capital, becoming Queen Marika's second husband and King Consort. Taking the title... of second Elden Lord."
+Red Wolf Of Radagon,"Fierce guardian and protector of its master, even when it has long left."
+Red Wolf Of The Champion,A ferocious red wolf with large fangs and blistering speed.
+Regal Ancestor Spirit,"A spirit glowing in pale blue light, suspended in the air and taking the shape of a huge deer."
+Royal Knight Loretta,The eternal guardian of Caria Manor fervently defends her domain atop the Royal Moongazing Grounds. Loretta uses her greatbow to rain destruction on all who would dare approach the estate grounds.
+Royal Revenant,"An obscene and disturbing abomination, blend of a spider-like creature and human limbs resulting in a quite resourceful fighter at close range."
+Runebear,"Ferocious, robust creature that's huge in size and remarkably agressive."
+"Rykard, Lord Of Blasphemy","Join the Serpent King, as family... Together, we will devour the very gods!"
+Scaly Misbegotten,A troll like scavenger with an insatiable taste for blood.
+"Sir Gideon Ofnir, The All-knowing","Sir Gideon Ofnir, now far from the books and immersed in battle."
+Soldier Of Godrick,"An esteemed high rank soldier, who wields a massive sword and wears his armor proudly."
+Spirit-caller Snail,The ultimate Spiritcaller.
+Starscourge Radahn,"General Radahn is cursed ever to wander. Eaten from the inside, by Malenia's scarlet rot, his Wits are long gone. Now he gathers the corpses of former friends and foes alike, gorging on them, like a dog."
+Tibia Mariner,"Tibia Mariner is a spectral sailor capable of calling forth the aid of undead Skeleton creatures and is mainly found at northeast Summonwater Village in Limgrave, near the limits with Caelir. This is an optional boss as players must not defeat it in order to advance to the Legacy Dungeon."
+Ulcerated Tree Spirit,A corrupted and deformed tree that lurks in Mt. Gelmir.
+Valiant Gargoyle,"Just like the wielder, the missing parts have been mended with corpse wax; a patchwork of champions."
+Wormface,A ghastly blood rotted tree with the face of a hundred worms.
+Tree Sentinel,The heavily armored and highly decorated sentinel protects the tree. Who would dare oppose him?

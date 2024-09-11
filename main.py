@@ -42,22 +42,33 @@ cypher_generation_template = """
 You are an expert Neo4j Cypher translator who converts English to Cypher based on the Neo4j Schema provided, following the instructions below:
 1. Generate Cypher query compatible ONLY for Neo4j Version 5
 2. Do not use EXISTS, SIZE, HAVING keywords in the cypher. Use alias when using the WITH keyword
-3. Use only Nodes and relationships mentioned in the schema
-4. Always do a case-insensitive and fuzzy search for any properties related search. Eg: to search for a Client, use `toLower(client.id) contains 'neo4j'`. To search for Slack Messages, use 'toLower(SlackMessage.text) contains 'neo4j'`. To search for a project, use `toLower(project.summary) contains 'logistics platform' OR toLower(project.name) contains 'logistics platform'`.)
+3. Use only nodes and relationships mentioned in the schema
+4. Always do a case-insensitive and fuzzy search for any properties related search. Eg: to search for a Person, use `toLower(entity.name) contains 'neo4j'`. 
 5. Never use relationships that are not mentioned in the given schema
-6. When asked about projects, Match the properties using case-insensitive matching and the OR-operator, E.g, to find a logistics platform -project, use `toLower(project.summary) contains 'logistics platform' OR toLower(project.name) contains 'logistics platform'`.
+6. When asked about entities, Match the properties using case-insensitive matching, E.g, to find a person named Radagon , use `toLower(entity.name) contains 'radagon'`.
+7. When asked about a person, Match the label property with the word "person", E.g, to find a person named Marika , use `toLower(entity.label) = 'person'`.
+7. When asked about a place, Match the label property with the word "place", E.g, to find a place named limgrave , use `toLower(entity.label) = 'place'`.
+8. If a person, place, object or event does not match an entity, Try matching the description property or the metadata property of a relationship using case-insensitive matching, E.g, to find information about Blackguard Big Boggart, use toLower(r.description) contains 'blackguard big boggart' OR toLower(r.metadata) contains 'blackguard big boggart'.
+9. When asked about any information of an entity, Do not simply give the entity label. Try to get the answer from the entity's relationship description or metadata property
 
 schema: {schema}
 
 Examples:
-Question: Which client's projects use most of our people?
-Answer: ```MATCH (c:CLIENT)<-[:HAS_CLIENT]-(p:Project)-[:HAS_PEOPLE]->(person:Person)
-RETURN c.name AS Client, COUNT(DISTINCT person) AS NumberOfPeople
-ORDER BY NumberOfPeople DESC```
-Question: Which person uses the largest number of different technologies?
-Answer: ```MATCH (person:Person)-[:USES_TECH]->(tech:Technology)
-RETURN person.name AS PersonName, COUNT(DISTINCT tech) AS NumberOfTechnologies
-ORDER BY NumberOfTechnologies DESC```
+Question: Who is Blackguard Big Boggart?
+MATCH (e:Entity)-[r:RELATED]->(re:Entity)
+WHERE toLower(r.description) CONTAINS 'blackguard big boggart'
+OR toLower(r.metadata) CONTAINS 'blackguard big boggart'
+RETURN e.name, r.metadata, r.description, re.name
+
+Question: Where is Limgrave?
+MATCH (e:Entity)-[r:RELATED]->(re:Entity)
+WHERE toLower(e.label) = 'place' AND toLower(e.name) = "limgrave"
+RETURN e.name, r.metadata, r.description, re.name
+
+Question: List all the locations in elden ring
+Answer: ```MATCH (e:Entity)
+WHERE e.label ="Place"
+RETURN e```
 
 Question: {question}
 """
@@ -96,6 +107,43 @@ def query_graph(user_input):
     result = chain(user_input)
     return result
 
+def refine_query(previous_query, user_input):
+
+   cypher_refine_template = f"""" 
+   Context: I am working with a Neo4j database containing information.
+
+   Initial Cypher Query:
+      {previous_query}
+   """
+
+   cypher_refine_template += """
+   Problem:
+   The above Cypher Query returned no results. 
+   I need to refine this query to achieve to answer the question {question}: 
+
+   Schema: {schema}
+
+   Request:
+   Can you please refine the Initial Cypher Query to answer the question?
+   """
+    
+   cypher_refine_prompt = PromptTemplate(
+      input_variables=["schema", "question"], template=cypher_refine_template
+   )
+
+   graph = Neo4jGraph(url=neo4j_url, username=neo4j_user, password=neo4j_password)
+   chain = GraphCypherQAChain.from_llm(
+       llm=llm,
+       graph=graph,
+       verbose=True,
+       return_intermediate_steps=True,
+       cypher_prompt=cypher_refine_prompt
+   )
+   
+   print(cypher_refine_prompt.format(question=user_input, schema=graph.schema, prevquery=previous_query))
+   result = chain(user_input)
+   return result
+
 
 st.set_page_config(layout="wide")
 
@@ -119,15 +167,22 @@ if user_input:
 
         print(user_input)
         try:
-            print("test")
             result = query_graph(user_input)
-            print(result)
             intermediate_steps = result["intermediate_steps"]
             cypher_query = intermediate_steps[0]["query"]
             database_results = intermediate_steps[1]["context"]
+            answer = result["result"]   
 
-            answer = result["result"]
+            if answer == "I don't know the answer.":
+                result = refine_query(cypher_query[6:], user_input)
+                intermediate_steps = result["intermediate_steps"]
+                cypher_query = intermediate_steps[0]["query"]
+                database_results = intermediate_steps[1]["context"]
+                answer = result["result"]   
+            
             st.session_state.system_msgs.append(answer)
+            # else:
+            #     st.session_state.system_msgs.append(answer)
         except Exception as e:
             st.write("Failed to process question. Please try again.")
             print(e)

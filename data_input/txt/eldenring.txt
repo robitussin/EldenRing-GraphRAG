@@ -27,6 +27,7 @@ The Lands Between is divided into 7 distinct areas,
 - The River Kingdoms (underground) 
 - Each overseen by a Demigod, and features a central "overworld" that connects all of these areas. According to an interview with Miyazaki, players will have total freedom as to the order they want to tackle for each area, and it is up to the player on how they want to approach it. The hub area similar to Firelink Shrine or Majula in previous games will not be accessible at the beginning of the game, which means you will need to progress the game until you reach the hub area.
 
+------------------------------------------------
 Elden Ring Character Lore
 
 The Tarnished
@@ -239,23 +240,145 @@ Rykard had a hand in the Night of the Black Knives, though to what extent is unc
 The ancient people of Mt. Gelmir worshipped a powerful serpent god that they would offer up sacrifices to. Rykard one day encountered the God-Devouring Serpent and offered himself and his Great Rune up as sacrifices to grant himself immortality, allowing him to grow and devour people and gods alike for all eternity. This fall into greed and glutinous depravity caused most of his followers to turn against him, with Tanith being a notable exception. Those who were once Gelmir Knights sought out the Serpent-Hunter, a great spear designed to hunt the immortal serpent, to put an end to their Lord. They found the mythical weapon, but were unsuccessful in defeating Rykard, as evident from the corpses holding the Serpent-Hunter in his boss room.
 When the Tarnished visits the Volcano Manor, they can find it's members following Rykard's blasphemous path. It is later revealed that those who proved themselves as recusants were granted an audience with Rykard and became part of the family - that is by being devoured by the great serpent himself.
 
-Elden Ring factions
-Volcano Manor Faction
+------------------------------------------------
+Elden Ring Covenants
+Covenants are replaced by Accords or informal NPC Factions in Elden Ring. Players can select allegiances or pledges undertaken to specific deities or groups of NPCs. It should be noted that the traditional sense of Dark Souls Covenants is NOT what you will come across in the Lands Between, rather, there are groups of NPCs around the world that you can choose to aid and in doing so, slowly raises your rewards and bonds with these people.
+It was in fact confirmed that traditional Covenants were not going to be in Elden Ring by Miyazaki himself to make PvP more accessible, and that it would be replaced with the Summoning Pools and various fingers etc.
+There are no Covenants in Elden Ring. Multiplayer paths are open without the need to ally with a specific faction
+Faction allegiance or personal "Accords" still exist, and players can obtain special items or progress Side Quests with them.
+
+Volcano Manor 
 The Volcano Manor faction houses a group of Recusant Tarnished led by Praetor Rykard. Those in this faction seek to rebel against the Erdtree. Before being granted an audience with their Lord and becoming a part of the family, a newly recruited Tarnished must first invade their fellow Tarnished to prove their resolve.
+Entirely optional, and mainly weaved for the path of those who choose a life of invasion, The Volcano Manor is a side Faction located in Mt Gelmir, surrounded by the biting lava ponds. Within this location, Volcano Manor can be located, granting company with Tanith who will welcome you into their side of battle - alongside a Quest line to prove your service is applicable. 
+Upon joining them, you will have access to the Recusant Finger, an infinite-use invasion item that dubs you as a Recusant to the host. Completing the Volcano Manor questline, as well as the questlines of the Volcano Manor NPCs nets you various equipment and spells as a reward. Despite requiring you to invade and defeat your fellow Tarnished, joining this faction has no consequence in your bonds with any other faction/NPC.
 
-Mohgwyn Dynasty Faction
+NPCS in this faction:
+Tanith
+Patches
+Rya
+Bernahl
+
+Possible rewards from joining this faction:
+Bull-Goat Set
+Crepus's Vial
+Daedicar's Woe
+Gelmir's Fury
+Hoslow's Petal Whip
+Hoslow's Set
+Magma Shot
+Magma Whip Candlestick
+Raging Wolf Set
+Recusant Finger
+Serpentbone Blade
+Scaled Set
+Taker's Cameo
+
+Mohgwyn Dynasty 
 A faction led by Mohg, Lord of Blood. Similar to the Volcano Manor, those in service to the Mohgwyn Dynasty faction invade other Tarnished and renounce the Greater Will. Bloodshed is the only motive for invasion in this faction. You'll find the beginnings of the dynasty in Mohgwyn Palace.
+Another invasion-centered faction, the Mohgwyn Dynasty is spearheaded by Mohg, Lord of Blood. You'll find the Lord of Blood himself and the beginnings of the dynasty in Mohgwyn Palace, deep underground by the Siofra River. Not much is revealed about Mohg or his dynasty, but bloodshed and recanting the wisdom of the Two Fingers are key elements.
+Progress enough through Varre's quest to be given a Bloody Finger, an infinite-use invasion item that dubs you as a Bloody Finger to the host. Joining this faction and completing the relevant questlines has no consequence on other NPC/faction attitude towards you.
 
-Carian Royal Family Faction
+NPCs in this faction:
+Mohg, Lord of Blood
+White Mask Varre
+
+Possible rewards from joining this faction:
+Bloody Finger
+Festering Bloody Finger
+Pureblood Knight's Medal
+Varre's Bouquet
+
+Carian Royal Family 
 The remaining members of this faction are Rennala, Ranni, and their trusted advisors. Though they once held power over the Academy of Raya Lucaria, Rennala's grief over Radagon's departure caused her to weaken and the academy's scholars to rebel.
 Now, serving the royal family means serving the last Carian princess, Ranni, in her mission to usurp the Two Fingers and Greater Will, and rebel against her fate as an Empyrean.
+What's left of the Carian Royal Family consists of the Rennala, Queen of the Full Moon, who resides in the Academy of Raya Lucaria, her daughter, Lunar Princess Ranni, and their trusted advisors. Visit Ranni at her tower in the Three Sisters and accept her accord to be allowed to join her faction. Similar to the Volcano Manor, accepting Ranni's accord will see you going against the Greater Will, aiding her in her journey on the 'dark path' to fight against her destiny as an Empyrean. 
+Progressing through and completing Ranni's quest gives you access to the 'Age of the Stars' Ending, as well as a secret area in the Carian Study Hall. Joining this faction will not affect your standing with other NPCs, but do note that completing Seluvis' quest all the way through will cause Ranni to deeply distrust you and disappear along with the other members of her group.
 
-Those Who Live In Death Faction
+NPCs in this faction:
+Blaidd
+Preceptor Seluvis
+Ranni the Witch
+Rennala, Queen of the Full Moon
+War Counsellor Iji
+
+Possible rewards from joining this faction:
+Carian Inverted Statue
+Dark Moon Greatsword
+Dark Moon Ring
+Discarded Palace Key
+Magic Scorpion Charm
+
+Those Who Live In Death 
 Those Who Live in Death refer to the numerous undead plaguing the Lands Between. Their very existence defies the tenets of the prevalent Golden Order and so they live in persecution. Those in this faction are empathetic towards Those Who Live in Death and join them in awaiting the rise of their Lord, the first of the dead demigods, Godwyn, Prince of Death.
+The undead that plague the Lands Between go by the title, Those Who Live in Death. Their very existence goes against the principle of immortality brought by the Golden Order. You'll find the one who considers herself their mother, Fia, Deathbed Companion, at the Roundtable Hold, and later on by the side of her companion in Deeproot Depths.
+Aid Fia in her quest to gain access to the 'Age of the Duskborn' Ending and unlock a secret boss fight. There is no consequence to any other NPC/faction bond when joining this faction.
 
-Golden Order Faction
+NPCs in this faction:
+Fia
+Godwyn, Prince of Death
+
+Possible rewards from joining this faction:
+Fia's Mist
+Mending Rune of the Death-Prince
+Radiant Baldachin's Blessing
+Remembrance of the Lichdragon
+
+Golden Order
 The Golden Order Faction, established by Queen Marika when brought to the Lands Between by the Greater Will, is the most dominant faction in the land. The tenets of this Order govern the rules and status quo to be practiced by it's followers, many of who follow blindly. However, after the Shattering and the recent departure of the Greater Will from the Lands Between, a few of its members are starting to question the infallibility of the Order.
+Few people left in the Lands Between stay devout followers of the Golden Order. Of those that remain, some are scholars seeking to preserve its teachings and history in writing, such as Brother Corhyn and Goldmask, while some are stalwart protectors against the undead, such as D, Hunter of the Dead. Although Melina doesn't align herself with any faction in particular, her accord and request to mend the Elden Ring seem to align with the views of the Golden Order.
+Follow Brother Corhyn & Goldmask's quest to the end to be able to access the 'Age of Order' Ending as well as to unlock the secrets behind Radagon and Marika. There is no consequence to joining this faction, nor are there any factions that causes any to this one.
 
-Frenzied Flame Faction
+NPCs in this faction:
+Brother Corhyn
+D, Hunter of the Dead
+D's Twin Brother
+Enia
+Gideon Ofnir
+Goldmask
+Kenneth Haight
+Miriel, Pastor of Vows
+
+Rewards:
+Corhyn's Robe
+Goldmask's Set
+Inseparable Sword
+Mending Rune of Perfect Order
+Twinned Set
+
+Frenzied Flame 
 A covert faction led by the Three Fingers. Similar to the Two Fingers, the Three Fingers are vassals for a different unknown Outer God. This outer god rejects the Greater Will and proclaims that all that is wrong with the Lands Between are due to their mistakes. Those in this faction await one who would take up the mantle of Lord of Chaos to burn the world down and melt all of its troubles away.
+The Greater Will is only one of the outer gods who have influence over the Lands Between. Under the guidance of the Three Fingers and their finger maiden will you be able to come into contact with another of the mysterious outer gods, one that seems to reject the Greater Will. It is implied from the description of the Nomadic Merchant's Set that the Nomadic Merchants were the first to summon the flame of frenzy into the Lands Between.
+Find the Three Fingers in the Frenzied Flame Proscription to unlock the 'Lord of Frenzied Flame' Ending. Unlocking this ending locks you out of getting any other ending, but does not hinder your progress towards completing any NPC quest. While you don't require finishing any quest to acquire this ending, aiding Hyetta gives more insight towards this faction.
 
+NPCs in this faction:
+Hyetta
+Nomadic Merchants
+Three Fingers
+Shabriri
+
+
+Primeval Sorcerers
+Of all the schools of magic, only scholarly endeavors on the Primeval Current are forbidden in the Academy of Raya Lucaria. Those who do are punished by transforming into a ball-like form. Despite this threat, few scholars, including the Sorceress Sellen, insist on learning the secrets of the Primeval Current.
+While you yourself will not be studying about the Primeval Current, you can aid Sellen in her studies by doing her quest. There aren't any consequence in aiding her, but at the end of her quest, you will have to make a choice between invading her with Witch Hunter Jerren or being summoned to help her against him. Your choice will affect which rewards you are able to receive.
+
+NPCs in this faction:
+Master Lusat
+Primeval Sorcerer Azur
+School of Graven Mages
+Sorceress Sellen
+
+Possible rewards from joining this faction:
+Azur's Glintstone Set
+Eccentric Set
+Glintstone Kris
+Lusat's Set
+Shard Spiral
+Witch's Glintstone Crown
+
+Other Factions
+This is a list of factions not joinable by the player character, but consists of several enemies in the game:
+Godskin Apostles - The name of a group of people that served an entity known as the Dusk-Eyed Queen or Gloam-Eyed Queen. The only thing known about her was that she was an Emyprean and the god-slaying black flame she wielded was fueled by Destined Death before she was bested by Maliketh, the Black Blade and had it locked away.
+Black Knife Assassins - A group of assassins responsible for the death of Godwyn the Golden in the historical event known as the Night of the Black Knives. You'll find their ringleader, Alecto, in-game, but not the reason they carried out the assassination.
+Radahn's Faction - General Radahn was surrounded by many loyal knights during the Shattering. Those who fought at his side are referred to as Redmane Knights or Radahn Soldiers.
+Malenia's Faction - Many soldiers and servants remain loyal to Malenia even after her battle against Radahn. They are the Kindreds of Rot and the Cleanrot Knights. Despite being able to help Gowry and Millicent during their quests, the player character doesn't join Malenia's faction in doing so.
+Miquella's Faction - Not much is known about Miquella's rule and his followers other than that the Haligtree Soldiers found in the Haligtree are waiting for their lord to return. The land of the Haligtree created by Miquella is also said to be the promised land of the Albinaurics.

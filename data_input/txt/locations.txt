@@ -1,0 +1,176 @@
+name,region,description
+Bridge Of Sacrifice,Limgrave,"A busy bridge swarming with iron-clad foes. Be prepared to engage in an array of melee, ranged and artillery attacks or attempt to push past them"
+Church Of Elleh,Limgrave,"Church of Elleh is a ruined building that hides a Site of Grace. The rooftop has caved in and offers no protection from the elements, and weeds are overtaking the walls, but this doesn't stop merchants from seeking what little shelter is on offer"
+Deathtouched Catacombs,Limgrave,"Catacombs filled with the stench of death, Skeletons dwell in the shadows"
+Church Of Dragon Communion,Limgrave,The dilapidated remains of the Church of Dragon Communion showcase the ruin that came to the land. But could a flame still linger at its altar??
+Coastal Cave,Limgrave,"Coastal Cave is a dark opening on the side of a cliff. Its mossy depths are overrun by hostile humanoid creatures, but those who brave it may find passage to new lands"
+Dragon-burnt Ruins,Limgrave,"Dragon-Burnt Ruins are what remains of the housing area among Agheel Lake, long lost to the deadly attacks of the fierce Agheel Dragon "
+Forlorn Hound Evergaol,Limgrave,"The southern Evergaol of Limgrave, before the entrance to Weeping Peninsula"
+Fringefolk Hero's Grave,Limgrave,Fingefolk Hero's Grave is a dark and secluded location within the Cave of Knowledge. The confused and aimless dwell within
+Fort Haight,Limgrave,"The overrun fort of Kenneth Haith, the alleged next ruler of Limgrave"
+Divine Tower Of Limgrave,Limgrave,Closed with a giant set of doors. It looks like you need some pieces to interact with the tower.  
+Gatefront Ruins,Limgrave,"Gatefront Ruins is what remains of the now destroyed barracks near the fortification. Despite its poor state, it is a heavily guarded location by those loyal to Stormveil"
+Limgrave Tunnels,Limgrave,"Limgrave Tunnels are a mine harvested for Glimstone. Its zealous miners don't dare venture into its hidden chambers, for fear of the hoarder Troll within "
+Groveside Cave,Limgrave,"Groveside Cave is a small refuge for wildlife in Limgrave. Its proximity to water and ease of access make it a sought-after shelter against bad weather, but those who venture in don't seem to return"
+Minor Erdtree (mistwood),Limgrave,Easily distiguished from the rest of the trees in Mistwood Forest.
+Highroad Cave,Limgrave,"A cave that houses a tomb, deep within. It is situated at the northmost part of Limgrave. It has been inhabited by a pack of Wolves, Land Octopuses, and Giant Bats"
+Mistwood,Limgrave,"Mistwood is a Location in Elden Ring. The Mistwood region is located in the Eastern part of Limgrave. Tiered terrain, small beaches, and luscious forests occupied by Lesser Runebears are the defining features of this region."
+Mistwood Ruins,Limgrave,"Concealed by the thriving growth of vegetation, these ruins are kept out of sight by the veil of nature itself. But there's more to it than what you see"
+Murkwater Catacombs,Limgrave,"An underground cemetery that is located at the north-east side of Agheel Lake in Limgrave. Once a place for peaceful rest for fallen heroes, it is now infested by goblins.  "
+Murkwater Cave,Limgrave,A dark cave halfway through the Murkwater River 
+Siofra River Well,Limgrave,"A mystical underground region filled with its own set of skies and stars. Beware, it is teeming with creatures big and small alike"
+Smoldering Church,Caelid,The Last Church in Limgrave before reaching Caelid
+Stormgate,Limgrave,The Stormgate is a heavily guarded area that marks the border within Limgrave and Stormhill. Only the foolhardy would rush such against such odds 
+Stormfoot Catacombs,Limgrave,"Stormfoot Catacombs were meant as a restful place for the deceased, but its now overrun by Goblins. Its deepest secrets are secured by the Guardian of the Burial Tree "
+Stormhill,Limgrave,"Stormhill is a Location in Elden Ring. Stormhill is the upper half area of Limgrave, between its central river and Stormveil."
+Stormhill Evergaol,Limgrave,The Brave and Foolish alike dare venture into the Stormhill Evergaol and face its relentless knight in battle
+Stormhill Shack,Limgrave,The Stormhill Shack is a dilapidated shelter formerly used to house hunters in the area. A Site of Grace offers a needed moment of rest for those traveling nearby 
+Stranded Graveyard,Limgrave,Stranded Graveyard is a dark and secluded location within the Cave of Knowledge. The confused and aimless dwell within
+Summonwater Village,Limgrave,"D, Hunter of The Dead, warns you of this nearby village taken over by death, known as Summonwater Village "
+Third Church Of Marika,Limgrave,The Ruins of an Old Church found in the Mistwood. The most prominent sight here is a statue of a lady with her arms outstretched
+Warmaster's Shack,Limgrave,Small shack in a remote area near north-central Stormhill.
+Waypoint Ruins,Limgrave,"Waypoint Ruins consists of a group of broken buildings and abandoned campsites, now overrun with poisonous flowers and their crazed caretaker"
+Ailing Village,Weeping Peninsula,"A small, abandoned village nestled within a forested area north of the Castle Morne Rampart. This village is host to long-dilapidated dwellings, inhabited only by hostile Demi-humans.  "
+Bridge Of Sacrifice,Limgrave,"A busy bridge swarming with iron-clad foes. Be prepared to engage in an array of melee, ranged and artillery attacks or attempt to push past them"
+Callu Baptismal Church,Weeping Peninsula,"A dilapidated church, presumably frequented by the former residents of Ailing Village. Now it lies in ruin, its congregation replaced by a family of mutant vermin feasting on the remains of  unfortunate travelers"
+Church Of Pilgrimage,Weeping Peninsula,The Church of Pilgrimage is a broken building situated at the top of the cliff in the north of the Weeping Peninsula. Even with the walls and roof destroyed pilgrims still make the journey to visit this church
+Castle Morne,Limgrave,"Remants of a chaos swept castle, teeming with iron-clad enemies -now engulfed with fire, piles of remains and ruin."
+Demi-human Forest Ruins,Weeping Peninsula,"Demi-Humans congregate here to worship their queen. Defeating her will reward players with the Demi-Human Queen's Staff, which is excellent for beginner mages."
+Earthbore Cave,Limgrave,Earthbore Cave is a small dark cave on the side of the Cliffside between Limgrave and Weeping Peninsula. One might be able to hear the squeaks of rats and the snoring of a large beast deep within if you listen closely
+Forest Lookout Tower,Weeping Peninsula,"A run-down tower built on the edge of the cliffs of the Weeping Peninsula, located west of the Bridge of Sacrifice.  "
+Impaler's Catacombs,Weeping Peninsula,"The Impaler's Catacombs are found in the east side of the Weeping Peninsula. Once used to store the bodies of the dead, it is now crawling with Imps. "
+Fourth Church Of Marika,Weeping Peninsula,"The ruins of a lonely church, sitting atop a plateau west of the peninsula. Despite its current state, the altar remains intact and ghostly knights still roam the fields nearby, perhaps restless and duty-bound to safeguarding the area..."
+Minor Erdtree (weeping Peninsula),Weeping Peninsula,One of the large Erdtree's found in the Weeping Peninsula. An Erdtree Avatar charges at those who approach
+Isolated Merchant's Shack,Weeping Peninsula,"Found at the western edge of the Weeping Peninsula, this lonesome hut is home to but a single person who has long adapted to a life of seclusion"
+Oridys's Rise,Weeping Peninsula,"A lone observation tower atop a plateau in the east of the Weeping Peninsula. Long since abandoned, the entrance is barred by a seal, presenting travelers with a small challenge"
+Morne Tunnel,Weeping Peninsula,A dark and hidden tunnel that is inhabited by Misbegottens and Miners.
+Tombsward Cave,Weeping Peninsula,Hidden cave in the forest teeming with poison-filled creatures.
+Tombsward Ruins,Weeping Peninsula,"The ruins of a former burial ground. Next to nothing remains here, yet squires still roam the dark tunnels beneath. Perhaps protecting the graves of their former noble masters.."
+Tombsward Catacombs,Weeping Peninsula,"The Tombsward Catacombs are hidden inside the mountain near the Minor Erdtree in the Weeping Peninsula. Once filled with the bodies of the dead, armed skeletons now rise to chase away those that wish to explore its depths."
+Tower Of Return,Weeping Peninsula,"A dilapidated tower guarded by foot soldiers and mounted cavalry. Makeshift wooden platforms and ladders line the inside of the tower, allowing it to retain some function as a lookout point and a mount for ballistae"
+Weeping Evergaol,Weeping Peninsula,An evergaol located on the western landmass of the Weeping Peninsula. A formidable opponent is imprisoned within
+Witchbane Ruins,Weeping Peninsula,"A set of ruins found in western Weeping Peninsula. Overgrown with thick shrubs and poisonous flowers, this decrepit landmark invites only misery and dread.  "
+Academy Crystal Cave,Liurnia of the Lakes,"The depths of the Raya Lucaria Academy are rich in rose-tinted crystals, imbued with the natural magic of the area"
+Academy Gate Town,Liurnia of the Lakes,The sunken remains of the academy town
+Ainsel River Well,Liurnia of the Lakes,A small structure housing a lift that takes you down to the Ainsel River.
+Artist's Shack,Liurnia of the Lakes,A small cabin at North Liurnia of The Lakes. Its strongly perceived tranquility seems overshadowed by oblivion.  
+Bellum Church,Liurnia of the Lakes,Located past the ruins and the forested area guarded by Mounted Knights.
+Bellum Highway,Liurnia of the Lakes,Outside the East Raya Lucaria Gate 
+Black Knife Catacombs,Liurnia of the Lakes,"Black Knife Catacombs homes many skeletons and crabs within its depths, find and defeat the Black Knife Assassin within to obtain their dagger."
+Caria Manor,Liurnia of the Lakes,A large estate situated far to the north of Liurnia.  
+Boilprawn Shack,Liurnia of the Lakes,Small cozy shack where Blackguard Big Boggart resides.
+Carian Study Hall,Liurnia of the Lakes,A large library-like location full of spectres 
+Chapel Of Anticipation,Limgrave,A small starting building with trail leading to an area occupied by a gnarly Grafted Scion
+Chelona's Rise,Liurnia of the Lakes,A tower overlooking the southern-most tip of Liurnia of the lakes
+Church Of Inhibition,Liurnia of the Lakes,"The remnants of an old church in the north of Liurnia, just before the Altus Plateau."
+Cathedral Of Manus Celes,Liurnia of the Lakes,A large church atop the southern plateau of Liurnia.
+Church Of Vows,Liurnia of the Lakes,"It is here, at the Church of Vows, that the great houses of the Erdtree and the Moon were joined by the matrimonial bond between red-haired Radagon and Rennala of the Full Moon. That is why it holds in view the monuments of both houses, the Erdtree of the Capital and the Academy of Raya Lucaria."
+Converted Fringe Tower,Liurnia of the Lakes,A tower found on the fringe in the northeastern tip of Liurnia.
+Converted Tower,Liurnia of the Lakes,An abandoned tower 
+Cuckoo's Evergaol,Liurnia of the Lakes,Evergaol located on the western landmass of Liurnia. A powerful force stirs within.
+Deep Ainsel Well,Liurnia of the Lakes,A deep well leading to the Moonlight Altar from the underground Grand Cloister.
+Divine Tower Of Liurnia,Liurnia of the Lakes,Divine Tower of Liurnia is a Location in Elden Ring. The Divine Tower of Liurnia is found in Liurnia of the Lakes and is reached by taking the lift down at the secret area of Carian Study Hall.
+Frenzied Flame Village,Liurnia of the Lakes,A village in Liurnia gripped in the madness of Three Fingers. Its denizens know nothing but the fiery frenzy burning within them
+Grand Lift Of Dectus,Liurnia of the Lakes,"A massive lift platform found between Liurnia and the Altus Plateau. The mechanism that operates the lift is barred by four Guardian Statues, requiring the brandishing of a special artifact for them to release their hold"
+Highway Lookout Tower,Liurnia of the Lakes,A lone tower overlooking the Liurnia main road on the eastern landmass 
+Jarburg,Liurnia of the Lakes,"Jarburg was a peaceful village, but the effects of the Shattering affected even the otherwise amicable Living Jar "
+Kingsrealm Ruins,Liurnia of the Lakes,"A ruined area, only seemingly bare."
+Lakeside Crystal Cave,Liurnia of the Lakes,"Hidden on the southwestern cliffs of Liurnia of the Lakes, a winding cave carved by large crystals"
+Laskyar Ruins,Liurnia of the Lakes,"Ruins of a sunken structure beset by fog, found amidst the marshes of south Liurnia."
+Lunar Estate Ruins,Liurnia of the Lakes,The ruins of a large estate found atop the southwestern plateau of Liurnia.
+Malefactor's Evergaol,Liurnia of the Lakes,An evergaol overlooking the vast lakes. An ever burning flame resides within
+Moonfolk Ruins,Liurnia of the Lakes,Ruins found in the southwest of the Liurnia of the Lakes region 
+Purified Ruins,Liurnia of the Lakes,The holy remains now lie in ruin  
+Ranni's Rise,Liurnia of the Lakes,A tower beset by large chunks of glintstone emerging from the ground and penetrating its interiors. Home to a mysterious figure observing The Lands Between
+Raya Lucaria Crystal Tunnel,Liurnia of the Lakes,One of the vast networks of tunnels used prominently for the academy's crystal mining operation.
+Renna's Rise,Liurnia of the Lakes,"A Tower of the Three Sisters, belonging to Renna. It houses Ranni's Snow Witch Armor Set"
+Revenger's Shack,Liurnia of the Lakes,"An isolated shack north of the Minor Erdtree. Bodies litter the ground inside the shack, possibly belonging to those one has taken revenge upon"
+Ringleader's Evergaol,Liurnia of the Lakes,An evergaol where a nortorious assassin is incarcerated
+Road's End Catacombs,Liurnia of the Lakes,Catacombs at the end of the world..
+Rose Church,Liurnia of the Lakes,"The ruins of a former church aptly named Rose Church, for its walls are now festering with scarlet rot and overgrown with bloodroses."
+Royal Grave Evergaol,Liurnia of the Lakes,An evergaol constructed for the Carian Royal family in the plains east of the royal estate
+Ruin-strewn Precipice,Liurnia of the Lakes,A steep precipice with abundant caves in the insides all the way through 
+Seluvis's Rise,Liurnia of the Lakes,A tower bequeathed unto Preceptor Seluvis. Serves as his personal study as he delves into the sorcerous arts.
+Slumbering Wolf's Shack,Liurnia of the Lakes,"A small shack nestled at the side of a cliff, only accessible through a long winding cave system.   A woman and her wolf companion rest here."
+Stillwater Cave,Liurnia of the Lakes,"A dark and murky cave beset by a poisonous miasma. Home to servants of rot, relishing in the presence of the giant poisonblooms endemic to the cave"
+Temple Quarter,Liurnia of the Lakes,"Ruined by the breaking, the Temple Quarter is now overrun with dangerous creatures, ready to attack any who come near "
+Testu's Rise,Liurnia of the Lakes,An observation tower found in the middle of a lone isle in Liurnia. The entrance is sealed by impish magic and presents a challenge to would-be visitors
+The Four Belfries,Liurnia of the Lakes,"As its name suggests, The Four Belfries is a hill with four large bell towers overlooking Liurnia from the west. Each belfry hosts a waygate that transports travelers to various locations"
+Village Of The Albinaurics,Liurnia of the Lakes,"The cursemongers have destroyed the Village of the Albinaurics, but perhaps their hope to reach the promised city is not yet lost"
+Abandoned Cave,Caelid,Long time abandoned cave.
+Caelem Ruins,Caelid,A set of perpetually burning ruins in western Caelid. The Caelid Highway cuts through these ruins which are heavily guarded by mobile flamethrowers and swarming with burning reanimated corpses
+Caelid Catacombs,Caelid,A labyrinth of Scarlet Rot-soaked floors and tunnels.
+Caelid Waypoint Ruins,Caelid,"A set of ruins found in southwest Caelid, along the highway. Long abandoned, the ruins have become home to all manner of creatures that revel in the decay and putrefaction brought on by the scarlet rot"
+Aeonia Swamp,Caelid,"The Swamp of Aeonia is nestled in the center of the Caelid region. What were once flourishing plains filled with rich flora and fauna are now reduced to a cesspool of death and decay. A high concentration of the dreaded scarlet rot has mutated the very earth itself, twisting the creatures and plant life that once called this home."
+Cathedral Of Dragon Communion (caelid),Caelid,"The Cathedral of Dragon Communion has long been destroyed, but those who seek to commune with draconic power may yet access its power "
+Church Of The Plague,Caelid,"A dilapidated church found in the cliffs east of Sellia, Town of Sorcery"
+Fort Gael,Caelid,"A ruined fort in a ruined land, "
+Gael Tunnel,Caelid,"A set of tunnels found on the western edge of Caelid, along the border to Limgrave"
+Forsaken Ruins,Caelid,The Forsaken Ruins consists of a group of broken buildings and abandoned campsites. It is located in Caelid and is gaurded by a Giant Crow
+Gaol Cave,Caelid,Found at the west of Caelid.
+Gowry's Shack,Caelid,"A lone shack found below the eastern hills near Sellia, Town of Sorcery."
+Minor Erdtree Catacombs,Caelid,"Minor Erdtree Catacombs is a Location in Elden Ring. The Minor Erdtree Catacombs is found in Caelid, beneath the Minor Erdtree. Players can reach this location by traveling east from where the region meets with Limgrave and then looking for the entrance behind the tree, in the north."
+Redmane Castle,Caelid,A small castle that is heavily guarded at the castle's outskirts by Radahn Knights and Soldiers. The Redmane Castle serves as the gathering point for warriors alike who are wanting to participate in the Radahn Festival
+Minor Erdtree (caelid),Caelid,"The Minor Erdtree of Caelid, found in the northwest near the border to Limgrave."
+Sellia Crystal Tunnel,Caelid,The crystal mining operation of Sellia is overseen by greedy and aggressive insectoids 
+Sellia Evergaol,Dragonbarrow, Outside of Sellia Evergaol
+Sellia Gateway,Caelid,"The gateway leading to Sellia, Town of Socrcery"
+"Sellia, Town Of Sorcery",Caelid,"A once-great town renowned for its study of the sorcerous arts. Now lying in ruin, the ghosts of its former scholars still roam the streets."
+Smoldering Church,Limgrave,The Last Church in Limgrave before reaching Caelid
+Shack Of The Rotting,Caelid,An old worn-down shack overlooking a long stretch of cliffs in western Caelid.
+Street Of Sages Ruins,Caelid,"The sages of Caelid are no more, and their former district is now the dwelling of perfumers and their poisonous flowers "
+War-dead Catacombs,Caelid,Catacombs for those who have died a glorious battle death
+Capital Outskirts,Altus Pleateau,"Capital Outskirts is a Location in Elden Ring. The Capital Outskirts sub-region lies in the Eastern area of the Altus Plateau and is the region just outside Leyndell, Royal Capital but still within the capital's outer walls. Beware of Skeletons rising from their graves and rocks flying out of the capital toward the battlegrounds when exploring the area."
+Altus Tunnel,Altus Pleateau,The Altus tunnels were once used to supply the lands with quality crystals 
+"Dominula, Windmill Village",Altus Pleateau,"Dominula, Windmill Village is a Location in Elden Ring. The Dominula, Windmill Village  is found in Altus Plateau. East of the ""Road of iniquity Side Path""sight of grace. Follow the main path southeast then bend east.  "
+East Windmill Pasture,Altus Pleateau,"East Pasture Outskirsts of Windmill Village. True to its name, it can be identified by the still-working windmill placed in the center of the pasture."
+Golden Lineage Evergaol,Altus Pleateau,An evergaol located on within the Altus Plateau.
+Hermit Merchant's Shack,Altus Pleateau,"Nestled on a cliff within the confines of the Royal Capital, this shack is home to a humble merchant, who has chosen a life of seclusion"
+Altus Tunnel,Altus Pleateau,The Altus tunnels were once used to supply the lands with quality crystals 
+"Leyndell, Royal Capital",Altus Pleateau,"Leyndell, Royal Capital is a Location in Elden Ring. The Leyndell, Royal Capital region is only accessible to players who have gathered two Great Runes or by following Ranni the Witch quest line and defeating Fia's Champions near the Great Waterfall Crest Site of Grace in the Deeproot Depths, and has content for highly leveled gameplay. For a detailed walkthrough, please visit the walkthrough page for Leyndell, Royal Capital Legacy Dungeon here."
+Lux Ruins,Altus Pleateau,"Long forgotten ruins among golden trees, swarmed with demi-humans protecting the undergound chamber."
+Old Altus Tunnel,Altus Pleateau,"An old mining site, still active to this day. Its tunnels echo with the grunts and groans of the commoners, tirelessly slaving away, grinding at the rich reservoir of crystals deep within"
+Minor Erdtree Church,Altus Pleateau,What's left of the Church of the Minor Erdtree
+Sealed Tunnel,Altus Pleateau,Not as small or abandoned as it looks.
+Stormcaller Church,Altus Pleateau,A lonely church on a steppe
+The Shaded Castle,Altus Pleateau,"An abandoned and Decrepit castle found in the northern region between the Mt. Gelmir and the Altus Plateau regions. The castle is half sunken into a poisonous bog, with the air tinged yellow by the fumes."
+Woodfolk Ruins,Altus Pleateau,"Woodfolk Ruins, guarded by Limgrave's creatures, can be found near the Minor Erdtree within Altus Plateau."
+Corpse-stench Shack,Altus Pleateau,A run-down shack amidst burning corpses past the site of a recent battle.
+Writheblood Ruins,Altus Pleateau,"Writheblood ruins, with nearest minor erdtree in background"
+Craftsman's Shack,Altus Pleateau,A series of long-abandoned huts found directly south of the volcano
+Gelmir Hero's Grave,Altus Pleateau,Large Catacombs housing an ancient hero of Mt. Gelmir.
+Hermit's Shack,Altus Pleateau,An abandoned shack along the western edge of Mt. Gelmir
+Fort Laiedd,Altus Pleateau,"Fort Laiedd is found on the western edge of Mt. Gelmir. A fort left broken, still occupied by those who won the battle"
+Perfumer's Ruins,Altus Pleateau,"A set of ruins found in Altus Plateau, far to the west and below Mt. Gelmir."
+Hermit Village,Altus Pleateau,A dilapidated village southeast of Mt. Gelmir. Now home to Demi-Humans.
+Sage's Cave,Altus Pleateau,"Sage's Cave is a dark opening in the side of a mountain. Its dark depths are overrun by hostile undead, but those who brave it may find treasures beyond compare"
+Second Church Of Marika,Altus Pleateau,Second of the four Churches of Marika where players can gather a Sacred Tear for their flask.
+Unsightly Catacombs,Altus Pleateau,"A burial grounds crawling with Misbegotten creatures found deep beneath the Perfumer's Ruins. Despite its decrepit state, the catacombs give off a trace of fragrant aromas juxtaposed by the scent of the ancient dead"
+Seethewater Cave,Altus Pleateau,A cave found along the Seethewater Ravine.
+Wyndham Catacombs,Altus Pleateau,Burial grounds located beneath Wyndham Ruins.
+Volcano Cave,Altus Pleateau,"A cave system at the highest point of Mt. Gelmir, made into a home by a family of Demi-Humans hiding their maddened Queen."
+Wyndham Ruins,Altus Pleateau,A large set of ruins atop a burial grounds. The reanimated dead still roam the area
+Bestial Sanctum,Caelid,"The Beastial Sanctum is a refuge for those who feed on the dead. Beastly and deformed, the clergyman here will teach the ways of the beast to those who feed it"
+Dragonbarrow Cave,Dragonbarrow,A small dungeon found beneath the Minor Erdtree in Dragonbarrow
+Divine Tower Of Caelid,Caelid,"A massive tower found in central Dragonbarrow, north of Caelid. The sides of the tower are crumbling from the massive overgrowth protruding from the plateau"
+Deep Siofra Well,Dragonbarrow,A second lift to the Siofra River.
+Fort Faroth,Dragonbarrow,"Fort Faroth used to house the guardians of Caelid, but its defenders have long fallen, now bound to earth as hostile spirits"
+Lenne's Rise,Dragonbarrow,"An observation tower in the northeast of Dragonbarrow, off the path to the Bestial Sanctum"
+Isolated Merchant's Shack (dragonbarrow),Dragonbarrow,A lonesome hut found atop a plateau in western Dragonbarrow. Home to a hermit looking to part with various odds and ends... for a price
+Castle Sol,Mountaintops of the Giants,A castle found in the northeast of the Mountaintops of the Giants. Stronghold of Commander Niall and his spectral knights
+Church Of Repose,Mountaintops of the Giants,A small crumbled church high on the mountains
+Forge Of The Giants,Mountaintops of the Giants,The giant's forge could contain a volcano.
+Grand Lift Of Rold,Mountaintops of the Giants,The impressive Lift of Rold transports those who wield the right key. But could there be more than one destination??
+Guardians' Garrison,Mountaintops of the Giants,"Guardian's Garrison is staffed by Fire Priests, who zealously watch the road leading to the Giant's Forge "
+Giant-conquering Hero's Grave,Mountaintops of the Giants,A complex dungeon filled with invulnerable enemies and strange golden floor seals. 
+Shack Of The Lofty,Mountaintops of the Giants,"A lone shack found in the Mountaintops of the Giants. This shack was once visited by a traveling maiden, but she had long since perished under the elements"
+Spiritcaller's Cave,Mountaintops of the Giants,"A cave found by the Freezing Lake, heavily battered by the elements"
+Stargazer's Ruins,Mountaintops of the Giants,A set of ruins found in central Mountaintops of the Giants. The plateau it is sitting on is located between two bridges.
+Zamor Ruins,Mountaintops of the Giants,"The ancient Town of Zamor, now fallen to ruin. Its anzient order of knights still roam the snow-capped streets"
+Consecrated Snowfield Catacombs,Mountaintops of the Giants,"The Catacombs of the fields leading to Miquella's Haligtree hide powerful secrets, but are zealously guarded"
+Apostate Derelict,Mountaintops of the Giants,A ruined church lying in the frozen north-west of the Consecrated Grounds 
+Heretical Rise,Mountaintops of the Giants,"The secrets of Heretical Rise are closely guarded by hidden magic, but the tower is overrun with hostile Avionette Soldiers "
+Hidden Path To The Haligtree,Mountaintops of the Giants,The secret passage leading to Miquella's Haligtree has been polluted by Those Who Live in Dead 
+Yelough Anix Ruins,Mountaintops of the Giants,A set of ruins found in the northwest of the Consecrated Snowfield
+"Ordina, Liturgical Town",Mountaintops of the Giants,Ghost town inhabitated in the evergaol
+Yelough Anix Tunnel,Mountaintops of the Giants,An icy tunnel on the southern edge of the Yelough Anix Ruins

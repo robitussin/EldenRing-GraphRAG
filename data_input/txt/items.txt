@@ -1,0 +1,460 @@
+name,effect
+Blue Cipher Ring,Enables the wearer to answer calls for rescue
+White Cipher Ring,"When invaded, request the aid of a hunter."
+Furlcalling Finger Remedy,Reveals co-op and hostile summoning signs
+Tarnished's Furled Finger,Creates cooperative multiplayer summon sign.
+Finger Severer,"Sends another, or oneself, home."
+Duelist's Furled Finger,Creates competitive multiplayer summon sign.
+Memory Of Grace,"Lose all runes, return to last site of lost grace."
+Tarnished's Wizened Finger,Used to write messages.
+Taunter's Tongue,Lures in invanders.
+Bloody Finger,Attempts invasion of other player's world.
+Small Golden Effigy,Send co-operative sign to summoning pool
+Small Red Effigy,Sends competitive sign to summoning pool
+Festering Bloody Finger,Attempts invasion of other player's world
+Smithing Stone [3],Reinforce armaments up to +9.
+Smithing Stone [2],Reinforce armaments up to +6.
+Smithing Stone [4],Reinforce armaments up to +12.
+Smithing Stone [5],Reinforce armaments up to +15.
+Smithing Stone [7],Reinforce armaments up to +21.
+Smithing Stone [6],Reinforce armaments up to +18.
+Smithing Stone [8],Reinforce armaments up to +24.
+Ancient Dragon Smithing Stone,Reinforce armamanets to +25
+Somber Smithing Stone [1],Reinforce special armaments to +1.
+Somber Smithing Stone [2],Reinforce special armaments to +2.
+Somber Smithing Stone [4],Reinforce special armaments to +4.
+Somber Smithing Stone [3],Reinforce special armaments to +3.
+Somber Smithing Stone [5],Reinforce special armaments to +5.
+Somber Smithing Stone [6],Reinforce special armaments to +6.
+Somber Smithing Stone [7],Reinforce special armaments to +7.
+Somber Smithing Stone [9],Reinforce special armaments to +9.
+Somber Ancient Dragon Smithing Stone,Reinforce special armaments to +10
+Recusant Finger,Attempts invasion of other player's world
+Smithing Stone [1],Reinforce armaments up to +3.
+Grave Glovewort [1],Strengthen ashes to +1.
+Grave Glovewort [2],Strengthen ashes to +2.
+Grave Glovewort [3],Strengthen ashes to +3
+Grave Glovewort [4],Strengthens ashes to +4
+Grave Glovewort [5],Strengthens ashes to +5
+Grave Glovewort [7],Strengthens ashes to +7
+Grave Glovewort [6],Strengthens ashes to +6
+Grave Glovewort [8],Strengthens ashes to +8
+Grave Glovewort [9],Strengthens ashes to +9
+Ghost Glovewort [2],Strengthen renowned ashes to +2
+Great Grave Glovewort,Strengthens ashes to +10
+Ghost Glovewort [1],Strengthens renowned ashes to +1.
+Ghost Glovewort [3],Strengthen renowned ashes to +3
+Ghost Glovewort [4],Strengthen renowned ashes to +4
+Ghost Glovewort [5],Strengthen renowned ashes to +5
+Ghost Glovewort [7],Strengthens renowned ashes to +7
+Ghost Glovewort [8],Stengthened renowed ashes to +8
+Ghost Glovewort [6],Strengthens renowned ashes to +6
+Ghost Glovewort [9],Stengthened renowed ashes to +9
+Great Ghost Glovewort,Strengthens renowned ashes to +10
+Armorer's Cookbook [2],Expands crafting repertoire
+Armorer's Cookbook [3],Expands crafting repertoire
+Armorer's Cookbook [4],Expands crafting repertoire
+Armorer's Cookbook [1],Expands crafting repertoire
+Armorer's Cookbook [5],Expands crafting repertoire
+Armorer's Cookbook [6],Expands crafting repertoire
+Armorer's Cookbook [7],Expands crafting repertoire
+Fevor's Cookbook [1],Expands crafting repertoire
+Fevor's Cookbook [2],Expands crafting repertoire
+Missionary's Cookbook [1],Expands crafting repertoire
+Missionary's Cookbook [3],Expands crafting repertoire
+Missionary's Cookbook [4],Expands crafting repertoire
+Missionary's Cookbook [5],Expands crafting repertoire
+Somber Smithing Stone [8],Reinforce special armaments to +8.
+Missionary's Cookbook [7],Expands crafting repertoire
+Nomadic Warrior's Cookbook [1],Expands crafting repertoire
+Nomadic Warrior's Cookbook [2],Expands crafting repertoire
+Nomadic Warrior's Cookbook [3],Expands crafting repertoire
+Nomadic Warrior's Cookbook [5],Expands crafting repertoire
+Nomadic Warrior's Cookbook [4],Expands crafting repertoire
+Nomadic Warrior's Cookbook [6],Expands crafting repertoire
+Nomadic Warrior's Cookbook [7],Expands crafting repertoire
+Nomadic Warrior's Cookbook [9],Expands crafting repertoire
+Nomadic Warrior's Cookbook [10],Expands crafting repertoire
+Nomadic Warrior's Cookbook [11],Expands crafting repertoire
+Nomadic Warrior's Cookbook (12),Expands crafting repertoire
+Nomadic Warrior's Cookbook [13],Expands crafting repertiore
+Nomadic Warrior's Cookbook [14],Expands crafting repertoire
+Fevor's Cookbook [3],Expands crafting repertoire
+Nomadic Warrior's Cookbook [16],Expands crafting repertoire
+Nomadic Warrior's Cookbook [15],Expands crafting repertoire
+Nomadic Warrior's Cookbook [17],Expands crafting repertoire
+Nomadic Warrior's Cookbook [8],Expands crafting repertoire
+Nomadic Warrior's Cookbook [18],Expands crafting repertoire
+Nomadic Warrior's Cookbook (19),Expands crafting repertoire
+Nomadic Warrior's Cookbook [20],Expands crafting repertoire
+Nomadic Warrior's Cookbook [21],Expands crafting repertoire
+Nomadic Warrior's Cookbook [24],Expands crafting repertoire
+Glintstone Craftsman's Cookbook [1],Expands crafting repertoire
+Glintstone Craftsman's Cookbook [2],Expands crafting repertoire
+Nomadic Warrior's Cookbook [22],Expands crafting repertoire
+Glintstone Craftsman's Cookbook [3],Expands crafting repertoire
+Glintstone Craftsman's Cookbook [4],Expands crafting repertoire
+Glintstone Craftsman's Cookbook [5],Expands crafting repertoire
+Glintstone Craftsman's Cookbook [6],Expands crafting repertoire
+Nomadic Warrior's Cookbook [23],Expands crafting repertoire
+Glintstone Craftsman's Cookbook [8],Expands crafting repertoire.
+Glintstone Craftsman's Cookbook (7),Expands crafting repertoire.
+Frenzied's Cookbook [1],Expands crafting repertoire
+Frenzied Cookbook,Expands crafting repertoire
+Perfumer's Cookbook [2],Expands crafting repertoire
+Perfumer's Cookbook [1],Expands crafting repertoire
+Perfumer's Cookbook [3],Expands crafting repertoire
+Perfumer's Cookbook [4],Expands crafting repertoire
+Ancient Dragon Apostle's Cookbook [1],Expands crafting repertoire
+Ancient Dragon Apostle's Cookbook [2],Expands crafting repertoire
+Ancient Dragon Apostle's Cookbook [3],Expands crafting repertoire
+Ancient Dragon Apostle's Cookbook [4],Expands crafting repertoire
+Flask Of Crimson Tears,Restores HP
+Flask Of Cerulean Tears,Restores FP
+Scriptstone,Reveals more messages from other worlds
+Holy Water Pot,Uses FP. Throw at enemies to inflict holy damage
+Rainbow Stone,"Shines with colored light when placed, serving as a guide"
+Roped Fire Pot,Throw behind to inflict fire damage.
+Rowa Raisin,"On horseback, feed to spectral steed to restore HP"
+Glowstone,Emits a faint light from the location it is placed
+Pauper's Rune,Use to gain a few runes
+Flask Of Wondrous Physick,Bestows various special effects
+Immunizing Cured Meat,Temporarily boosts Immunity
+Pickled Turtle Neck,Temporarily boosts Stamina recovery
+Fireproof Dried Liver,Boosts  Fire Damage Negation for a short time.
+Drawstring Fire Grease,"Quickly coats weapon, inflicting  Fire Damage"
+Fire Pot,Throw at enemies to inflict Fire Damage
+Fire Grease,"Coats weapon, inflicting Fire Damage"
+Neutralizing Boluses,Alleviates poison buildup and cures poison
+Exalted Flesh,Temporarily boosts physical attack
+Sleep Pot,Emits a Soporific purple haze
+Gold-pickled Fowl Foot,Boosts rune acquisition for a time (30%)
+Dragon Heart,Gain power of the dragon at the Dragon Communion altar.
+Throwing Dagger,Throw at enemies to inflict damage
+Stimulating Boluses,Alleviates buildup of sleep
+Stanching Boluses,Alleviates impending blood loss
+Lands Between Rune,Use to gain many runes
+Golden Seed,Increases Sacred Flask's number of uses
+Bewitching Branch,Uses FP to charm pierced enemy
+Boiled Prawn,Boosts physical damage negation for a time
+Explosive Stone,"Explodes when thrown, inflicting Fire Damage"
+Starlight Shards,Use to gradually recover FP
+Golden Rune [1],Use to gain a small number of runes
+Golden Rune [2],Use to gain a small number of runes (400)
+Golden Rune [3],Use to gain runes
+Golden Rune [6],Use to gain many runes
+Golden Rune [4],Use to gain runes
+Baldachin's Blessing,Uses FP to temporarilty boost poise
+Blood Grease,"Coats armament, inflicting blood loss"
+Frozen Raisin,"On horseback, feed to Torrent to vastly restore HP"
+Glass Shard,Shard of filthy glass. Worthless rubbish
+Fan Daggers,Thrown fanned-out knives at enemies to inflict damage
+Grace Mimic,"Light shows the path, but without order"
+Roped Holy Water Pot,Uses FP. Throw behind to inflict holy damage
+Bone Dart,Throw at enemies to inflict damage
+Gravity Stone Chunk,Uses FP to cause a gravitational explosion
+Gravity Stone Fan,Uses FP to emit fan-shaped gravitational shockwave
+Invigorating Cured Meat,Temporarily boosts Robustness
+Invigorating White Cured Meat,Temporarily boosts Robustness
+Kukri,Throw at enemies to inflict damage and build up onset of blood loss
+Glintstone Scrap,"Break gem, using FP to produce a magic bolt."
+Large Glintstone Scrap,Break gem and use FP to produce many magic bolts
+Magic Grease,"Coats armament, inflicting magic damage"
+Remembrance Of The Grafted,Take the power of its namesake via Finger Reader
+Rot Grease,"Coats armament, inflicting scarlet rot"
+Rune Arc,Grants the blessing of an equipped rune upon use
+Silver-pickled Fowl Foot,Temporarily boosts item discovery (+50)
+Spellproof Dried Liver,Temporarily boosts magic damage negation
+Warming Stone,Uses FP to continuously heal nearby allies
+Sacred Tear,Improves Sacred Flask's potency
+Furled Finger's Trick-mirror,Take on appearance of a Host of Fingers
+Host's Trick-mirror,Take on appearance of a cooperator
+Drawstring Lightning Grease,"Quickly coats armament, inflicting lightning damage."
+Cuckoo Glintstone,Uses FP to produce a magic bolt
+Preserving Boluses,Alleviates scarlet rot buildup and cures rot
+Golden Rune [5],Use to gain runes (1600)
+Remembrance Of The Full Moon Queen,Take the power of its namesake via Finger Reader
+Raw Meat Dumpling,Restores HP but causes poison buildup
+"Prattling Pate ""wonderful""","Emits a voice that says ""Wonderful"""
+Clarifying White Cured Meat,Temporarily boosts focus
+Immunizing White Cured Meat,Temporarily boosts immunity
+Clarifying Cured Meat,Temporarily boosts focus
+Soft Cotton,Temporarily reduces fall damage and sound
+Poisonbone Dart,Throw at enemies to inflict damage and build up poison
+Poisoned Stone,Throw at enemies to cause buildup of poison
+Poisoned Stone Clump,Throw together to cause buildup of poison
+Dragonwound Grease,"Coats armament, granting special dragon attacks"
+"Prattling Pate ""apologies""","Emits a voice that says ""Apologies"""
+Rejuvenating Boluses,Alleviates death blight buildup
+Explosive Stone Clump,"Explodes when thrown together, inflicting fire damage"
+"Prattling Pate ""you're Beautiful""","Emits a voice that says ""You're beautiful"""
+Poison Grease,"Coats armament, inflicting poison"
+"Prattling Pate ""please Help""","Emits a voice that says ""Please help"""
+Golden Rune [7],Use to gain many runes
+Golden Rune [9],Use to gain many runes
+Golden Rune [10],Use to gain a great many runes
+Golden Rune [8],Use to gain many runes
+Shield Grease,Boosts guarding ability and all damage negation.
+Soap,Removes filth and accumulations on the body
+Frenzyflame Stone,Uses FP to continuously heal chaos followers
+Lightning Grease,"Coats armament, inflicting lightning damage"
+Soporific Grease,"Coats armament, inflicting sleep"
+Dappled Cured Meat,"Temporarily boosts Immunity, Robustness, and Focus"
+Wraith Calling Bell,Uses FP to ring bell and calls prowling wraiths
+Holyproof Dried Liver,Temporarily boosts holy damage negation
+Remembrance Of The Starscourge,Take the power of its namesake via Finger Reader
+Dappled White Cured Meat,"Temporarily boosts immunity, robustness, and focus"
+Clarifying Boluses,Alleviates madness buildup
+Crystal Dart,Uses FP. Throw to inflict magic damage.
+Drawstring Blood Grease,"Quickly coats armament, inflicting blood loss"
+Drawstring Magic Grease,"Quickly coats armament, inflicting magic damage"
+Furlcalling Finger Remedy,Reveals co-op and hostile summoning signs
+Roped Fetid Pot,Throw behind to cause buildup of deadly poison
+Roped Poison Pot,Throw behind to cause buildup of poison
+Beastlure Pot,Uses FP. Lures beasts only.
+Roped Oil Pot,Throw behind to douse enemies in oil
+Rancor Pot,Uses FP. Throw to summon vengeful spirits.
+Cursed-blood Pot,Throw to douse enemy with accursed blood.
+Freezing Pot,Throw at enemies to cause buildup of frost.
+Poison Pot,Throw at enemies to cause buildup of poison.
+Oil Pot,Throw at enemies to soak them in oil.
+Poison Spraymist,Uses FP to release poison mist from the mouth.
+Fetid Pot,Throw at enemies to cause deadly buildup of poison.
+Giantsflame Fire Pot,Uses FP. Throw at enemies to inflict heavy fire damage.
+Bloodboil Aromatic,Uses FP to enter a temporary state of fervor.
+Thawfrost Boluses,Alleviates buildup of frost
+Remembrance Of The Naturalborn,Take the power of its namesake via Finger Reader
+Remembrance Of The Regal Ancestor,Take the power of its namesake via Finger Reader
+Margit's Shackle,Binds Margit and Morgott two times per battle
+Numen'srune,Use to gain a multitude of runes
+Regal Omen Bairn,Uses FP to unleash many wraiths that chase that foes
+Sacred Order Pot,Uses FP. Throw at enemies to inflict heavy holy damage.
+Rot Pot,Throw at enemies to cause buildup of scarlet rot.
+Spark Aromatic,Uses FP to broadly scatter sparks in a wide arc straight ahead
+Blasphemous Claw,Deflects the power of the Black Blade
+Uplifting Aromatic,Boosts ally attack power and reduces incoming damage once.
+Drawstring Holy Grease,"Quickly coats armament, inflicting holy damage"
+Freezing Grease,"Coats armament, inflicting frost"
+Golden Rune [13],Use to gain a great many runes
+Hero's Rune [1],Use to gain an abundance of runes.
+Hero's Rune [5],Use to gain an abundance of runes.
+Lightningproof Dried Liver,Temporarily boosts lightning damage negation
+Lord's Rune,Use to gain an enormous abundance of runes
+Memory Of Grace,"Lose all runes, return to last site of lost grace."
+Mohg's Shackle,"Briefly binds Mogh, once imprisoned, to earth"
+Omen Bairn,Uses FP to unleash wraiths that chase down foes
+Remembrance Of Hoarah Loux,Take the power of its namesake via Finger Reader
+Remembrance Of The Black Blade,Take the power of its namesake via Finger Reader
+Remembrance Of The Blasphemous,Take the power of its namesake via Finger Reader
+Remembrance Of The Fire Giant,Take the power of its namesake via Finger Reader
+Drawstring Rot Grease,"Quickly coats armament, inflicting scarlet rot, but with a brief effect, owing to its small size."
+Golden Rune (11),Use to gain many runes
+Remembrance Of The Omen King,Take the power of its namesake via Finger Reader
+Remembrance Of The Black Blade,Take the power of its namesake Via Finger Reader
+Remembrance Of The Dragonlord,Take the power of its namesake via Finger Reader
+Remembrance Of The Lichdragon,Take the power of its namesake via Finger Reader
+Elden Remembrance,Take the power of its namesake via Finger Reader
+Remembrance Of The Rot Goddess,Take the power of its namesake via Finger Reader
+Radiant Baldachin's Blessing,Uses FP to temporarily raise poise
+Crafting Kit,Enables the practice of item Crafting
+Telescope,Allows viewer to see faraway things
+Torch,Phy 54 Mag 0 Fire 97 Ligt 0 Holy 0 Crit 100
+Lantern,Attach to waist to illuminate surroundings
+Spectral Steed Whistle,Summon and ride spectral steed Torrent.
+Spirit Calling Bell,Bell that summons various spirits from ashen items
+Spirit Calling Bell,Bell that summons various spirits from ashen items
+Tailoring Tools,Enables armor adjustment at sites of grace
+Sewing Needle,Boc the demi-human's prized sewing needle
+Tailoring Tools,Enables armor adjustment at sites of grace
+Golden Tailoring Tools,Allows demigod garb alteration at sites of grace
+Gold Sewing Needle,Special sewing needle for demigod attire
+Unalloyed Gold Needle,Snapped intricate needle of unalloyed gold
+Memory Stone,Increases memory slots
+Memory Stone,Increases memory slots
+Talisman Pouch,Increases Talisman equip slots.
+Stonesword Key,Use to break one imp statue seal
+Academy Glintstone Key,Key to open the academy's two sealed gates
+Sewer-gaol Key,Unlocks sewer-gaol door beneath Leyndell
+Rusty Key,Opens a locked door in Stormveil Castle
+Imbued Sword Key,"Unseals sending gate, but disappears upon use"
+Drawing-room Key,Key to the Volcano Manor drawing room
+Hosts' Trick-mirror,Take on appearance of a cooperator
+Mimic's Veil,Uses FP to mimic nearby objects.
+Irina's Letter,Letter addressed to the commander of Castle Morne
+Discarded Palace Key,Key to treasure chest for Carian Princesses
+Furled Finger's Trick-mirror,Take on appearance of a Host of Fingers
+Irina's Letter,Letter addressed to the commander of Castle Morne
+Chrysalids' Memento,Broach wrapped in red velvet
+Chrysalids' Memento,Broach wrapped in red velvet
+Beast Eye,Said to tremble when close to Deathroot
+Deathroot,Beast Clergyman seeks and devours these
+Shabriri Grape,"Yellow, oozing eyeball of the infirm"
+Celestial Dew,Carry out Absolution at the Church of Vows
+Seedbed Curse,Curse grown on a body defiled by a Dung Eater
+Black Knifeprint,Mark of the Night of the Black Knives ritual
+Dragon Heart,Gain power of the dragon at the Dragon Communion altar.
+Fingerprint Grape,"Eyeball of the knight Vyke, inflamed yellow"
+"Prattling Pate ""hello""","Emits a voice that says ""Hello"""
+"Prattling Pate ""thank You""","Emits a voice that says ""Thank you"""
+"Prattling Pate ""apologies""","Emits a voice that says ""Apologies"""
+Wraith Calling Bell,Uses FP to ring bell and calls prowling wraiths
+Larval Tear,Material needed by Rennala to grant rebirth
+Seluvis's Potion,Small flask received from Preceptor Seluvis
+Mirage Riddle,Simple map taken from an imp statue.
+Valkyrie's Prosthesis,Golden prosthesis used by the one-armed Valkyrie
+Weathered Dagger,"Dagger received from Fia, Deathbed Companion"
+Seluvis's Introduction,Letter of introduction addressed to Sellen
+Fingerslayer Blade,Hidden treasure of the Eternal City of Nokron
+Ancestral Infant's Head,Uses FP to spray spirit vapor
+Carian Inverted Statue,Key revealing the hidden form of Carian Study Hall
+Cursemark Of Death,Cursemark carved into Lunar Princess Ranni's discarded flesh
+Rold Medallion,Operates Grand Lift of Rold
+Miniature Ranni,Doll resembling Ranni the Witch
+The Stormhawk King,Ashes of a hawk which heeds no summons.
+Dark Moon Ring,Ring of Lunar Princess Ranni's cold oath
+Dectus Medallion (right),Join medallions to operate Grand Lift of Dectus
+Haligtree Secret Medallion (left),Join medallions to operate Grand Lift of Rold
+Haligtree Secret Medallion (right),Join medallions to operate Grand Lift of Rold
+Assassin's Prayerbook,Give to a learned cleric to acquire new incantations
+Dectus Medallion (left),Join medallions to operate Grand Lift of Dectus
+Fire Monks' Prayerbook,Give to a learned cleric to acquire new incantations
+Dragon Cult Prayerbook,Give to a learned cleric to acquire new incantations
+Two Fingers Prayerbook,Give to a learned cleric to acquire new incantations
+Conspectus Scroll,Give to Sorceress Sellen to unlock Glintstone Cometshard and Star Shower
+Ancient Dragon Prayerbook,Give to a learned cleric to acquire new incantations
+Royal House Scroll,Give to a learned sorcerer to acquire new sorceries
+Academy Scroll,Give to a learned sorcerer to acquire new sorceries
+Whetstone Knife,Can add new battle arts and affinities to weapons
+Glintstone Whetblade,Grants choice of affinity upgrade to weapon
+Iron Whetblade,Grants choice of affinity upgrade to weapon
+Whetstone Knife,Can add new battle arts and affinities to weapons
+Black Whetblade,Grants choice of affinity upgrade to weapon
+Sancrified Whetblade,Grants choice of affinity upgrade to weapon.
+"Map (limgrave, West)",Map of Limgrave's western region.
+"Map (limgrave, East)",Map of Limgrave's eastern region
+Map (weeping Peninsula),Map of Weeping peninsula
+Map (weeping Peninsula),Map of Weeping peninsula
+"Map (liurnia, East)",Map of Liurnia's eastern region
+"Map (liurnia, North)",Map of Liurnia's northern region
+Map (dragonbarrow),Reveals the region of Dragonbarrow on the map.
+"Map (liurnia, West)",Reveals the western portion of Liurnia on your map.
+Map (ainsel River),Map of Ainsel River and environs
+Map (siofra River),Reveals the region of Siofra River on the map.
+Map (mt. Gelmir),Map of Mt. Gelmir region
+Map (altus Plateau),Reveals  Altus Plateau on your map
+"Map (leyndell, Royal Capital)",Reveals the region of Leyndell on the map.
+Map (caelid),Reveals the region of Caelid on the map.
+"Map (mountaintops Of The Giants, West)",Map of Western Mountaintops of the Giants.
+"Map (mountaintops Of The Giants, East)",Map of Eastern Mountaintops of the Giants.
+Map (consecrated Snowfield),Map of Consecrated Snowfield and environs.
+Map (lake Of Rot),Map of Lake of Rot and environs.
+Note (land Squirts),Note imparting knowledge in brief
+Map (deeproot Depths),Revels Deeproot Depths and environs on your map
+Note (stonedigger Trolls),Note imparting knowledge in brief
+Note (flask Of Wondrous Physick),Note imparting knowledge in brief
+Note (waypoint Ruins),Note imparting knowledge in brief
+Ruptured Crystal Tear,Causes concoction to explode in mixed physick
+Note: Demi-human Mobs,Note imparting knowledge in brief.
+Greenspill Crystal Tear,Temporarily boosts stamina in mixed physick
+Cerulean Crystal Tear,Restores half of total FP in mixed physick.
+Cerulean Hidden Tear, Eliminates all FP consumption in mixed physick
+Crimson Crystal Tear,Restores half of total HP in mixed physick
+Crimsonburst Crystal Tear,Steadily restores HP for a time in mixed physick
+Faith-knot Crystal Tear,Temporarily boosts faith in mixed physick
+Strength-knot Crystal Tear,Temporarily boosts strength in mixed physick
+Opaline Bubbletear,Significantly negates damage in mixed physick
+Spiked Cracked Tear,Enhances charged attacks for a time in mixed physick
+Dexterity-knot Crystal Tear,Temporarily boosts dexterity in mixed physick
+Lightning-shrouding Cracked Tear,Temporarily boosts lightning attacks in mixed physick
+Magic-shrouding Cracked Tear,Temporarily boosts magic attacks in mixed physick
+Winged Crystal Tear,Temporarily reduces equip load in mixed physick
+Holy-shrouding Cracked Tear,Temporarily boosts holy attacks in mixed physick
+Twiggy Cracked Tear,Briefly stop rune loss on death in mixed physick
+Leaden Hardtear,Temporarily boosts poise in mixed physick
+Crimsonspill Crystal Tear,Temporarily boosts max HP in mixed physick
+Greenburst Crystal Tear,Temporarily boosts stamina recovery speed in mixed physick.
+Speckled Hardtear,Boosts resistance and heals status in mixed physick.
+Flame-shrouding Cracked Tear,Temporarily boosts the power of one's fire attacks.
+Crimson Bubbletear,Restores HP when near death in mixed physick.
+Crimsonwhorl Bubbletear,Converts damage received into HP in mixed physick.
+Thorny Cracked Tear,Makes consecutive attacks grow stronger in mixed physick.
+Stonebarb Cracked Tear,Make attacks more likely to break enemy stances in a mixed physick
+Windy Crystal Tear,Enhances dodge rolls for a time in mixed physick
+Opaline Hardtear,Temporarily boosts all damage negations in physick
+Purifying Crystal Tear,Purifies the Lord of Blood's curse in a mixed physick
+Aeonian Butterfly,Material used for crafting items
+Albinauric Bloodclot,Material used for crafting items
+Intelligence-knot Crystal Tear,Temporarily boosts intelligence in mixed physick.
+Altus Bloom,Material used for crafting items
+Arteria Leaf,Material used for crafting items
+Beast Liver,Material used for crafting items
+Beast Blood,Material used for crafting materials
+Bloodrose,Material used for crafting items
+Blood-tainted Excrement,Material used for crafting items
+Budding Cave Moss,Material used for crafting items
+Cave Moss,Material used for crafting items
+Cracked Crystal,Material used for crafting items
+Crystal Cave Moss,Material used for crafting items
+Budding Horn,Material used for crafting items
+Crab Eggs,Material used for crafting items
+Cracked Pot,Container required for crafting cracked pot items
+Ritual Pot,Container required for crafting ritual pot items
+Crystal Bud,Material used for crafting items
+Dewkissed Herba,Material used for crafting items
+Eye Of Yelough,Material used for crafting items
+Erdleaf Flower,Material used for crafting items
+Faded Erdleaf Flower,Material used for crafting items
+Fire Blossom,Material used for crafting items
+Flight Pinion,Material used for crafting items
+Formic Rock,Material used for crafting items
+Four-toed Fowl Foot,Material used for crafting items
+Fulgurbloom,Material used for crafting items
+Glintstone Firefly,Material used for crafting items
+Glintstone Scrap,"Break gem, using FP to produce a magic bolt."
+Gold Firefly,Material used for crafting items
+Gold-tinged Excrement,Material used for crafting items
+Golden Centipede,Material used for crafting items
+Golden Dung,Material used for crafting items
+Golden Rowa,Material used for craftign items
+Golden Sunflower,Material used for crafting items
+Grave Violet,Material used for crafting items
+Gravel Stone,Material used for crafting items
+Great Dragonfly Head,Material used for crafting items
+Herba,Material used for crafting items
+Hidden Plumage,Material used for crafting items
+Human Bone Shard,Material used for crafting items
+Living Jar Shard,Material used for crafting items
+Lump Of Flesh,Material used for crafting items
+Land Octopus Ovary,Material used for crafting items
+Melted Mushroom,Material used for crafting items
+Miquella's Lily,Material used for crafting items
+Miranda Powder,Material used for crafting items
+Moon Egg,Material used for crafting items
+Old Fang,Material used for crafting items
+Mushroom,Material used for crafting items
+Perfume Bottle,Container required for crafting perfume items
+Poisonbloom,Material used for crafting items
+Nascent Butterfly,Material used for crafting items
+Rimed Crystal Bud,Material used for crafting items
+Rimed Rowa,Material used for crafting items
+Root Resin,Material used for crafting items
+Rowa Fruit,Material used for crafting items
+Ruin Fragment,Material used for crafting items.
+Sacramental Bud,Material used for crafting items
+Sanctuary Stone,Material used for crafting items
+Slumbering Egg,Material used for crafting items
+Smoldering Butterfly,Material used for crafting items
+String,Material used for crafting items
+Silver Firefly,Material used for crafting items
+Sliver Of Meat,Material used for crafting items
+Strip Of White Flesh,Material used for crafting items
+Tarnished Golden Sunflower,Material used for crafting items
+Toxic Mushroom,Material used for crafting items
+Trina's Lily,Material used for crafting items
+Thin Beast Bones,Material used for crafting items
+Turtle Neck Meat,Material used for crafting items
+Volcanic Stone,Material used for crafting items
+Yellow Ember,Material used for crafting items
+Hefty Beast Bone,Material used for crafting items
+Silver Tear Husk,Material used for crafting items
+Stormhawk Feather,Material used for crafting items

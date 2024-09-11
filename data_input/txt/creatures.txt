@@ -1,0 +1,114 @@
+name,description
+Arcane Sphere Of Faces,Safeguard of the Witchbane Ruins' basement cellar. Mysteriously rare and highly unconventional.
+Giant Bat,"The Giant Bats of Limgrave are nocturnal creatures and often rest during the day, unless they are disturbed."
+Lesser Runebear,"Feral, often massive bears with runic patterns on their chest. Most commonly found scavenging the realms of The Lands Between or fighting other wild creatures."
+Abnormal Stone Cluster,Bizarre catterpillar-shaped beings formed of moss-covered spherical stones and a disturbing eye that looks like that of a human being. They are commonly found as dull groups of seemingly lifeless rocks.
+Basilisk,???
+Bladed Talon Eagle,"The servants of Stormveil come in many shapes, including Eagles that have been enslaved and fitted with blades. Driving them to attack those who approach"
+Boar,"The Boars of Limgrave are less aggressive than normal, but should not be assumed to be passive"
+Burning Slug,Burning Slugs move slowly and are located in the open field.
+Crab,Crabs thrive in the shallow ponds of Agheel Lake and the shores of Limgrave
+Construct,An Enemy made by Enemies
+Deer,"Deer roam freely in the plains on Limgrave, now that hunters have all but disappeared"
+Dog,"Roaming through the fields of Limgrave, wild Dogs should not be assumed to be docile nor dull."
+Giant Dragonfly,The Great Dragonflies of Limgrave buzz and harass all creatures in their vicinity
+Direwolf,"Found alone or in small packs, these bloodthirsty beasts stalk the Lands Between with predatory fervor."
+Eagle,"Majestic Eagles can be spotted among the cliffs, even during these times."
+Giant Crab,"Giant Crabs crowd the shores and shallows, attacking any who approach by swinging their powerful claws and spewing forth high-pressure water."
+Giant Land Octopus,Giant Land Octopuses are a dangerous foe for any daring to visit the beaches of Limgrave.
+Giant Lobster,"The Lands Between are rife with all manner of life forms, naturally evolving over long periods and adapting to the environment. One such creature is the Giant Lobster — a creature that evolved to grow to such enormous sizes in order to better defend itself against much deadlier threats."
+Giant Poison Flower,"Giant Poison Flowers sprout in unlikely places, and summon down the elements on those who approach them"
+Giant Rat,???
+Guillemot,"The Guillemot on the beaches of Limgrave are docile animals, but they are easily spooked"
+Lesser Runebear,"Feral, often massive bears with runic patterns on their chest. Most commonly found scavenging the realms of The Lands Between or fighting other wild creatures."
+Lesser Red Wolf Of Radagon,"Hostile, over-sized wolves majestically covered in scarlet fur."
+Lesser Spider Hand,"Lesser Spider Hands are horrific creatures, surpassed only by their more powerful, gigantic counterparts."
+Land Octopus,The peculiar Land Octopus is a rather small but dangerous creature
+Owl,"Owls can be resting on the cliffs of Stormhill, and would even seem friendly and unconcerned by those passing by"
+Poison Flower,Poison Flowers grow near caves and cellars in Limgrave
+Land Squirt,Land Squirts are repulsive shallow water creatures that emit a poison mist to kill and devour those nearby
+Rat,"Giant rats plague the mines and caves of Limgrave, spreading diseases where they go"
+Rabbitgaroo,"A species unique to The Lands Between, as adorable as scared."
+Rotten Stray,"Undead dogs haunt the depths of Limgrave's mines, attacking all those who dwell into the tunnels"
+Sheep,"The sheep from Limgrave have long forgotten captivity, romaing the landscape freely instead."
+Skeletal Slime,"Skeletal slime drudges the shores and shallows of Limgrave, looking for prey to consume"
+Spirit Jellyfish,"Spirit Jellyfish are passive creatures seeking to protect, unless angered"
+Teardrop Scarab,There are both Crimson and Cerulean Teardrop Scarabs. Defeat them to replenish the flasks that match their type.
+Spider Hand,"Spider Hands skitter about their environs, often clinging to walls to put the drop on unsuspecting trespassers. They are also capable of burrowing deep beneath the earth, violently bursting out of the ground to grab and crush their prey."
+Wild Mouflon,Wild Mouflons become hostile when threatened and fight their aggressors by charging forward and striking them with their large horns.
+Turtle,"Turtles are passive creatures almost driven to extinction by those seeking its meat, said to have curative properties"
+Wolf,"Wolves hunt the Lands Between in packs, and all those traveling should beware of their dangerous pack leaders"
+Prawn Miner,Hostile over-developed creatures resembling large shrimps. Remarkably agile.
+Farum Azula Dragon,"Farum Azula Dragons fly around the Farum Azula or what's left of it, if any of them notice someone roaming around, they will come to hunt the down. They have the power of thunder and they will use it aggresively towards enemies."
+Bloody Finger Nerijus,"Bloody Finger Nerijus follows the Bloody Finger code, hunting for fellow Tarnished without remorse"
+"Anastasia, Tarnished-eater","Invaded by Anastasia, Tarnished-Eater!"
+Edgar The Revenger,Edgar the Revenger is a warrior clad in medium armor and wields a halberd. His moveset involves mostly physical attacks and his poise is easily broken with magic.
+Inquisitor Ghiza,???
+Mad Tongue Alberich,???
+"Maleigh Marais, Shaded Castle Castellan",Maleigh Marais's identity is completely shrouded by their mask and long robes. They are equipped with a rapier and move carefully around opponents. They are easily staggered with magic attacks such as Glintblade Phalanx.
+Moongrum Carian Knight,"Moongrum the Carian Knight is the guardian of Raya Lucaria Academy's Grand Library, he is the last line of defense against intruders who are wanting to slay the head sorcerer of the institute. Just like you, a Tarnished, Moongrum is capable of wielding two different weapons, a shield, can use sorcery, and even use Flasks to recover health. A true warrior of Raya Lucaria."
+Preceptor Miriam,???
+Recusant Henricus,Invaded by Recusant Henricus!
+Albinauric,"Due to their comically large and round heads, Albinaurics are perpetually hunched-over. They are often found in groups of five or more and they employ rudimentary combat tactics, often attacking recklessly with repeated swings and long combos that leave them open. At times, you may spot an Albinauric performing quick cartwheels on the battlefield, displaying agility despite their stature."
+Albinauric Wolfback Archer,Guarding the rooftops of Ordina.
+Banished Knight,"A tall knight who was banished and bound to serve the Grafted Lord, and to kill those trespassers of Stormveil Castle. They are normally seen wielding a large weapon such as a longsword with a shield or a polearm, and they are fully protected with a complete set of armor."
+Azula Beastman,"The Beastmen of Farum Azula are ferocious half-man, half-beast warriors. They display remarkable agility and are proficient in a plethora of weaponry including various curved blades, greatswords, shields and spears. Many are also excellent marksmen with their unique curved throwing knives which they use with deadly precision."
+Baleful Shadow,Assassins of the Two Fingers sent forth to carry out their dirty work
+Blackflame Monk,"Mysterious hooded figures belonging to an order of monks that call upon the power of the Black Flame, as well as their astute martial prowess to fell foes and trespassers of their domains."
+Perfumer,???
+Black Knight,"The Black Knight, riding atop a dark steed, wielding a mighty halberd."
+Godrick Knight,"Wielders of heavy swords and spears, protected by large shields and fully armored. These Knights are often aided in combat by soldiers or hostile dogs, therefore posing a threat to the unprepared and novice."
+Castle Guard,"Castle Guards comprise the bulk of Stormveil's defenses, but are by no means the most dangerous of the many great ones within."
+Chanting Winged Dame,The Chanting Winged Dames of Liurnia of The Lakes are equally hostile as they are suspicious.
+Clayman,???
+Commoner,"The Commoner is a servant that is bound to perform duties for their superiors within Stormveil Castle. They appear to be tall, slender, yet weak, who is still capable of fighting trespassers."
+Demi-human,"Agile and hostile, Demi-Humans scavenge the land in groups commanded by a leader, a stronger and more menacing creature. They roam the field light-armored and wielding a wide range of melee weapons and wooden shields."
+Fire Monk,"Fire Monks hierarchically gather in ceremonies, often at night, burning their way through Liurnia of The Lakes with torches and Mobile Flamethrowers. Fire Monk Abbots have the powerful ability of bursting flames from their hands and must be fought carefully."
+Sorcerer Miner,"Frail and malnourished, Diggers wield a glintstone-imbued staff for mining which doubles as a weapon when push comes to shove."
+Flame Guardian,"Flame Guardians are slender humanoids dressed in simple white garbs and wearing a bronze mask, concealing their identity. They are equipped with long, flaming poles/staves and wield fire magic."
+Glintstone Sorcerer,"Glintstone Sorcerers are decked in Raya Lucarian Robes and distinct Glintstone Crown masks that obscure their identity. These scholars have access to lower level spells such as Glintstone Pebble, among others."
+Gnoll,"Hungry Gnolls are usually found eating from dead bodies which makes them vulnerable to surprise or stealth attacks, but they are quick and unforgivingly lethal. They come in different classes, some of the wield a sword and use it very acrobatically, other use shields and some even are able to cast thunder."
+Godrick Soldier,"The Godrick Soldiers of the Lands Between now roam the landscape, their clothes rags, hoping to rebuild their lives"
+Golem,"Golems lay inactive in the hills of Stormhill, but those foolish enough to wake them will soon curse their fate"
+Highwayman,"Former foot soldiers who have turned to banditry. Clandestine and secluded from civilazation, now they lie in hidden caves."
+Great Horned Tragoth,Invading another world. Defeat Great Horned Tragoth!
+Gold Dragon Cult Knight,"Exceedingly tough and skillful Knight, a golden armor-wearing menace lethal to most. Highly trained warrior and a threatening adversary due to its fine combat skills."
+Imp,"Imps infest many catacombs in the Lands Between, although some theorize they could be protecting their secrets"
+Imp Miner,"Small and agile creatures that typically conceal themselves within a smokescreen., Often wielding an axe or a flail amd performing flying attacks."
+Invisible Warrior,"Sneak warriors, patient and quick to get in your back."
+"Juno Hoslow, Knight Of Blood",???
+Imp,"Imps infest many catacombs in the Lands Between, although some theorize they could be protecting their secrets"
+Lesser Burial Watchdog,"A living construct fashioned after felines and hounds, made to watch over catacombs. These constructs wield massive stone weaponry and are attuned to different elements."
+Knight Of Zamor,"Knights of Zamor are slender humanoids with long hair, wielding a peculiar curved blade. These warriors are graceful and perform almost dance-like maneuvers as they weave across the battlefield. As denizens of the Mountaintops of the Giants, Knights of Zamor are strongly attuned to Frost, utilizing its powers to bolster their swordplay."
+Lesser Pumpkin Head,"The Lesser Pumpkin Head is a weaker variant of the Pumpkin Head. It appears to be an outcast due to its appearance and is mainly used as one of a weapon to fight against intruders and trespassers alike. The Lesser Pumpkin Head can be seen wearing a Pumpkin Helm, a distressed cloak, and wields a large club."
+Lesser Ulcerated Tree Spirit,A guardian that sleeps deep within the crypt of Stormveil Castle. It is quick and very aggressive when it attacks and moves similar to a centipede with its multiple legs. The Lesser Ulcerated Tree Spirit also features two large arms and a tail that it mainly uses to swing around or to slam the ground.
+Living Jar,"The Living Jar, a walking vase that has long arms used for reaching and attacking their foes. A Living Jar may appear small in a group and it can also appear as a singular giant entity, capable of using slow, yet strong attacks."
+Lesser Wormface,Lesser Wormface may not be as large as Wormface itself but they can be found roaming around in groups around Crumbling Farum Azula.
+Maneuverable Flamethrower,Large wagons operated from the inside that shoot fire from a sculpture's mouth.
+Marionette Gargoyle,"The Marionette Gargoyle are statues within Raya Lucaria Academy that have been reanimated with magical properties. They mainly fly in the air and wield a scythe that they use to attack their foes. They are usually found on posts, pretending to be statues."
+Marionette Soldier,"Marionette Soldiers are puppets that are created and given life by superior being that reside within Raya Lucaria Academy. Their purpose is to protect and stop intruders from entering the institute. These soldiers appear to have multiple arms wielding more than one weapon, making them unpredictable in regards to how they will strike."
+Miner,"The ever working miners of Limgrave know no life but their toil, and will fiercely defend it"
+Mounted Northern Mercenary,"Mounted Northern Mercenaries are often seen guarding important deliveries and outposts, such as Stormgate"
+Noble Sorcerer,Noble Sorcerers are frail old men wearing tattered garbs and a dirty yellow cape. They use a standard glintstone staff as both a sorcery catalyst and walking stick.
+Misbegotten,"The Misbegotten are small humanoid creatures with small wings on their backs and a tail that reaches to the ground. Treated as slaves or worse from the time they are born, they rush in attack wildly and ruthlessly with their Iron Cleavers."
+Kaiden Sellsword,"Kaiden Sellswords roam the land, looking to be hired for several protection roles"
+Omen,"A large ogre that is kept imprisoned within the grounds of Stormveil Castle. It appears to be battered and treated violently to discipline it, and used as a weapon to fight against trespassers."
+Pendulum Statue,"A golden statue that sits on a small wagon. Attached to it are two pendulum blades that can extend to capture its prey. The Pendulum Statue is being controlled by an unkown creature that rests within it, only by opening its chest will it reveal its root-like tentacles."
+Old Knight Istvan,Invading another world. Defeat Old Knight Istvan!
+Perfumer,???
+Pumpkin Head,The breaking disrupted the flora and fauna of the region. Some took a rather intense liking to the larger plants that emerged
+Raya Lucaria Sorcerer,"Academicians of the Raya Lucaria Academy. These sholars dedicate their lives to learning and mastering the art of sorcery and serve one superiror sorcerer who resides within the institute. They are able to use glintstone sorcery to strike their foes from afar, and are still capable of using their weapon for close-quarters combat."
+Rileigh The Idle,Invading another world. Defeat Rileigh the Idle!
+Revenant,"A grotesque amalgamation of limbs, the Revenant is a creature with the body structure of an arachnid and the face of a human. Much like a spider, it possesses many limbs that seem to have been grafted onto its body, taken from diseased humans. The Revenant is capable of traveling through portals it creates with a peculiar form of magic, swiftly emerging behind a foe to catch them off guard."
+Servant Of Rot,"Servants of Rot relish in the pungent miasma expelled by Poison Flowers. Their bodies are heavily mutated by the rot, their heads transformed into large crowns of fungi. These presumably former humans know only the rot and they worship it like a deity, bathed in its fog of decay."
+Raya Lucarian Warden,"Wardens roam the halls of the Raya Lucaria Academy, armed and watchful for furtive marauders."
+Soldier,"Soldiers defend the many outposts of the Lords from incoming threats, such as the Tarnished"
+Skeleton Mage,"Skeleton Mages are usually found on graveyards in Liurnia of the Lakes. They can out from the ground, they can be found in groups, wielding scythes and constantly casting a spell launching ghostly skulls against you."
+Skeleton,"Skeletons rise from cemeteries and ruins of the Lands Between, attacking relentlessly any who approach"
+Slender Wayfarer,"A rare and long-haired creature, tall and slender, often found at the shore."
+Swordstress,Nimble warriors protecting and patrolling the eternal cities.
+Troll,"The Trolls of the Lands Between are frequently enslaved for defensive positions, but are also used in lieu of beasts of burden"
+Troll Knight,"Trolls are often employed to guard key locations, such as staircases large enough to accommodate their massive bodies. Often unmatched in strength, it bears the question... What manner of creature poses enough of a threat such that the mighty troll would find itself in need of heavy armor...?"
+Undead Soldier,"Undead creatures, decayed and struggling to maintain balance while roaming the fields of The Lands Between."
+Twinsage Sorcerer,"Twinsage Sorcerers are distinguished from other scholars by the crowns worn on their head, depicting the Twinsage Conspectus, with distinct blue crystals forming at the top of the twin heads."
+Wraith Caller,"As their name suggests, Wraith Callers are equipped with Wraith Calling Bells that they use to channel death magic, summoning vengeful spirits to attack those that dare intrude upon the ruins of Liurnia. Devout worshippers of the Revenants, Wraith Callers are able to utilize the Revenants' dimensional portals, albeit to a lesser extent."

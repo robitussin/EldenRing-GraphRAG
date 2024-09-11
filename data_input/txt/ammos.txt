@@ -1,0 +1,54 @@
+name,description
+Firebone Arrow,Arrow whittled from animal bones. The tip is set alight before firing
+Bloodbone Arrow Fletched,Arrow whittled from animal bones. The tip is daubed with a golden tincture. Deals holy damage. Craftable item. The fletching adds distance to the arrow's flight.
+Bolt,"Ammunition used for crossbows. A widespread, common type of bolt."
+Bloodbone Bolt,Bolt carved from animal bone. The tip is daubed with a blood tincture. Afflicts targets with blood loss. Craftable item. 
+Ballista Bolt,Greatbolt as large as a pear for use with Hand Ballista
+Black-key Bolt,"Bolts used in Crepus' Black-Key Crossbow, an assassin's tool of exquisite craftmanship."
+Bloodbone Arrow,Arrow whittled from animal bones. The tip is daubed with a blood tincture. Afflicts targets with blood loss.
+Arrow,"Arrows used with small and long bows. Unremarkable in any way, shape or form."
+Bone Arrow,"Arrow whittled from thin animal bones. Though the arrowhead is sharp indeed, it doesn't fly particularly true."
+Bone Arrow Fletched,Arrow whittled from thin animal bones. The feather fletchings add distance and accuracy to the standard bone arrow.
+Bone Bolt,Bolt carved from a thin animal bone. Craftable item.
+Bone Ballista Bolt,Greatbolt as large as a spear carved from stout animal bones. Craftable item.
+Burred Bolt,Bolt covered in thorns. One of the most horrific weapons used in the Shattering. Afflicts with blood loss.
+Dwelling Arrow,Arrow in which the spirits of small animals are thought to dwell.
+Explosive Greatbolt,Greatbolt tipped with a clump of Explosive Stone shards.
+Explosive Bolt,"Bolt tipped with a shard of Explosive Stone. Explodes on impact, dealing fire damage."
+Fire Arrow,Arrow with the tip set alight.Deals fire damage. 
+Firebone Arrow Fletched,Arrow whittled from animal bones. The tip is set alight before firing. Deals fire damage to foes.
+Firebone Bolt,Bolt carved from animal bone. The tip is set alight before firing. Deals fire damage.
+Flaming Bolt,Bolt with a fiercely burned tip. Deals powerful fire damage.
+Golden Bolt,Bolt blessed with an incantation of the Erdtree. Deals powerful holy damage 
+Golden Arrow,Carved arrows made in tandem with the Erdtree Bow. Deals holy damage. 
+Golden Great Arrow,Carved greatarrows made together with the Erdtree Greatbow. Deals holy damage. 
+Golem's Great Arrow,"Greatarrow of black stone crafted by a civilization now gone to ruin. Used by the Guardian Golem.This hefty arrow is enrobed in tempestuous winds, allowing it to break enemy stances and guards with ease."
+Great Arrow,A greatarrow as large as a spear for use with greatbows. Used by archers of monstrous strength employed by a lord's army.
+Haligbone Arrow,Arrow whittled From animal bones. The tip is daubed with a golden tincture. Deals holy damage. Craftable item.
+Haligbone Arrow Fletched,Arrow whittled from animal bones. The tip is daubed with a golden tincture. Deals holy damage. Craftable item. The fletching adds distance to the arrow's flight. 
+Lightning Greabolt,Greatbolt tipped with a climp of Gravel Stone shards. 
+Haligbone Bolt,Bolt carved from animal bone. The tip is daubed with a golden tincture. Deals holy damage. Craftable item.
+Lightning Greabolt,Greatbolt tipped with a climp of Gravel Stone shards.Deals powerful lightning damage. 
+Lightningbone Arrow Fletched,Arrow whittled from animal bones with a lightning-infused tip. Deals lightning damage.Craftable item. The fletching adds distance to the arrow's flight. 
+Lightningbone Arrow,Arrow whittled from animal bones with a lightning-infused tip. Deals lightning damage.Craftable item.
+Lightningbone Bolt,Bolt crafted from animal bone with a lightning-infused tip. Deals lightning damage. Craftable item.
+Lordsworn's Bolt,"Well-crafted bolt with an illustrious design, wielded by regulars of a lord's army."
+Magicbone Bolt,Bolt carved from animal bone. The tip is daubed with a glintstone tincture. Deals magic damage. Craftable item.
+Poisonbone Arrow,Arrow whittled from animal bones. The tip is daubed with venom. Afflicts targets with poison. Craftable item.
+Poisonbone Bolt,Bolt carved from animal bone. The tip is daubed with venom. Afflicts targets with poison. Craftable item.
+Poisonbone Arrow Fletched,Arrow whittled from animal bones. The tip is daubed with venom. Afflicts targets with poison. Craftable item. The addition of fletching enables more precise shots that can travel farther.
+Perfumer's Bolt,Bolt created with perfumer techniques. Used by nobles' guards and the like.
+Magicbone Arrow Fletched,Arrow whittled from animal bones. The tip is daubed with a glintstone tincture. Deals magic damage.Craftable item. The Retching adds distance to the arrow's flight.
+Meteor Bolt,Enchanted work of craft made in tandem with Full Moon Crossbow. The tip is embedded with glintstone.
+Magicbone Arrow,Arrow whittled from animal bones. The tip is daubed with a glintstone tincture. Deals magic damage. Craftable item.
+Radahn's Spear,Greatarrows used by the General Radahns during the festival of combat. These are in fact the many spears with which he was stabbed by the Cleanrot Knights.Imbued with Radahn's gravitational power.
+Rainbow Stone Arrow,Arrow whittled from animal bones tipped with chips of Rainbow Stone. Colored lights shine at the point of impact. 
+Rotbone Arrow,Arrow whittled from animal bones. The tip is daubed with rot. Afflicts targets with scarlet rot. Craftable item.
+Rotbone Arrow Fletched,Arrow whittled from animal bones. The tip is daubed with rot. Afflicts targets with scarlet rot. Craftable item. The fletching adds distance to the arrow's flight.
+Shattershard Arrow Fletched,Arrow whittled from animal bones tipped with a shard of crystal. Creates a resonating noise at the point of impact.
+Serpent Arrow,Arrow carved to resemble a flying snake. Used in tandem with the Serpent Bow.
+Shattershard Arrow,Arrows whittled from animal bones tipped with a shard of crystal. Creates a resonating noise at the point of impact.
+Rotbone Bolt,Bolt carved from animal bone. The tip is daubed with rot. Afflicts targets with scarlet rot. Craftable item.
+Sleepbone Arrow Fletched,Arrow whittled from animal bones. The tip is daubed with a water lily tincture. Afflicts targets with drowsiness. Craftable item. The addition of fletching enables more precise shots that can travel farther.
+Sleepbone Arrow,Arrow whittled from animal bones. The tip is daubed with a water lily tincture. Afflicts targets with drowsiness. Craftable item.
+Spiritflame Arrow,Arrow set alight with ghostflame before firing.Deals magic damage while also afflictingfoes with frost.

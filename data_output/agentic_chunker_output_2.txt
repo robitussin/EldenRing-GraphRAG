@@ -1,0 +1,47 @@
+Chunk Outline
+
+Chunk ID: 388de
+Chunk Name: Elden Ring: World, History & Characters
+Chunk Summary: This chunk delves into the intricate lore, history, and characters of Elden Ring, detailing the Lands Between, the Shattering, demigods' power struggles, and the intertwined fates of key figures in the game's narrative.
+
+Chunk ID: 3f4af
+Chunk Name: Spoiler Alerts
+Chunk Summary: This chunk contains warnings about spoiler content in media or information.
+
+Chunk ID: bd808
+Chunk Name: Fantasy Game Character Dynamics & Storylines
+Chunk Summary: This chunk explores the intricate character interactions, developments, and storylines within a fantasy video game world.
+
+Chunk ID: d1613
+Chunk Name: Video Games
+Chunk Summary: This chunk contains information about different video games.
+
+Chunk ID: 7ce1e
+Chunk Name: Hidetaka Miyazaki's Career & Works
+Chunk Summary: This chunk contains information about the career and works of Hidetaka Miyazaki.
+
+Chunk ID: 91fe2
+Chunk Name: Twin Dynamics & Supernatural Connection
+Chunk Summary: This chunk discusses the unique characteristics and relationship of twin brothers D and Darian/Devin, including their shared soul, alternating consciousness, and the perceptions of their existence by others.
+
+Chunk ID: 12702
+Chunk Name: Family Influences & Relationships
+Chunk Summary: This chunk contains information about the family, relationships, and significant family influences in individuals' lives.
+
+Chunk ID: 36e4f
+Chunk Name: Narratives & Quests in Game Storytelling
+Chunk Summary: This chunk outlines the narratives and character developments of Boc and Millicent, their relationships with the Tarnished, and significant plot points in their quests within a game's storyline.
+
+Chunk ID: 58da3
+Chunk Name: Self-Image & Acceptance in Relationships
+Chunk Summary: This chunk explores the character Boc's struggles with self-image and acceptance by others.
+
+Chunk ID: a7bb1
+Chunk Name: Boc's Conflicts & Misfortunes
+Chunk Summary: This chunk contains information about Boc's misfortunes and conflicts with other demi-humans.
+
+Chunk ID: 2f4c0
+Chunk Name: Physical Descriptions
+Chunk Summary: This chunk contains descriptions of individuals' physical characteristics.
+
+

@@ -1,0 +1,15 @@
+name,description
+Hero,"A stalwart Hero, at home with a battleaxe, descended from a badlands chieftain"
+Warrior,A twinblade wielding warrior from a nomadic tribe. An origin of exceptional technique
+Astrologer,A scholar who reads fate in the stars. Heir to the school of glintstone sorcery
+Bandit,A dangerous bandit who strikes for weak points. Excels at ranged combat with bows
+Prisoner,"A prisoner bound in an iron mask. Studied in glintstone sorcery, having lived among the elite prior to sentencing."
+Vagabond,"A knight exiled from their homeland to wander. A solid, armor-clad origin."
+Confessor,A church spy adept at covert operations. Equally adept with a sword as they are with incantations
+Wretch,A poor purposeless osd naked as they day they were born. A nice club is all they have
+Prophet,A seer ostracized for inauspicious prophecies. Well versed in healing incantations
+Samurai,A capable fighter from the distant land of reeds. Handy with Katana and Longbows
+Warrior,A twinblade wielding warrior from a nomadic tribe. An origin of exceptional technique
+Enchanted Knight,"These Knights have embraced the power of Glintstone, facing enemies in melee combat while simultaneously casting spells. They often seek out and destroy those who use magic for nefarious purposes."
+Bloody Wolf,"The Wolf is cunning, steadfast and deadly. These warriors have no fear and face down death with unmatched vigor and pride."
+Champion,"Equipped with a Sacred Seal and an Axe, the Champion can burn foes from a distance or take them head on in melee combat. They are ferocious fighters, who do not fear death."

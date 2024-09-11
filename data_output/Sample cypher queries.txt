@@ -1,0 +1,25 @@
+Examples:
+Question: Who is Blackguard Big Boggart?
+MATCH (e:Entity)-[r:RELATED]->(re:Entity)
+WHERE toLower(r.description) contains 'blackguard big boggart'
+OR toLower(r.metadata) contains 'blackguard big boggart'
+RETURN r.metadata, r.description
+
+Question: List all the locations in elden ring
+Answer: ```MATCH (e:Entity)
+WHERE e.label ="Place"
+RETURN e```
+
+WORKING
+Question: What is an Amber Egg?
+MATCH (e:Entity)-[r:RELATED]->(re:Entity)
+WHERE toLower(re.name) CONTAINS 'amber egg'
+OR toLower(r.description) CONTAINS 'amber egg'
+OR toLower(r.metadata) CONTAINS 'amber egg'
+OR toLower(re.name) CONTAINS 'amber egg'
+RETURN e.name, r.metadata, r.description, re.name 
+
+NOT WORKING
+MATCH (e:Entity)-[r:RELATED]->(re:Entity)
+WHERE toLower(e.name) contains 'celestial dew'
+RETURN e.name, r.metadata, r.description, re.name
