@@ -10,7 +10,9 @@ class GraphLogger:
         "Set the log level (optional, can be DEBUG, INFO, WARNING, ERROR, CRITICAL)"
 
         log_level = os.environ.get("LOG_LEVEL", "INFO").upper()
-        logging.basicConfig(level=log_level)
+        logging.basicConfig(filename='app.log',  
+                            filemode='a',  
+                            level=log_level)
 
         ## Formatter
         self.time_format = "%Y-%m-%d %H:%M:%S"

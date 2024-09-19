@@ -9,7 +9,7 @@ class OpenAIClient(LLMClient):
     _top_p: float
 
     def __init__(
-        self, model: str = "gpt-3.5-turbo", temperature=0.2, top_p=1, max_tokens=2048
+        self, model: str = "gpt-4o-mini", temperature=0.2, top_p=1, max_tokens=2048
     ):
         self._model = model
         self._temperature = temperature

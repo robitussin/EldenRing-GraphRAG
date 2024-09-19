@@ -126,23 +126,29 @@ class GraphMaker:
         response = self.generate(text)
         verbose_logger.info(f"LLM Response:\n{response}")
 
-        json_data = self.parse_json(response)
-        if not json_data:
-            json_data = self.manually_parse_json(response)
+        if response.strip() != "[]":
+            json_data = self.parse_json(response)
+            if not json_data:
+                json_data = self.manually_parse_json(response)
 
-        edges = [self.json_to_edge(edg) for edg in json_data]
-        edges = list(filter(None, edges))
-        return edges
-
+            edges = [self.json_to_edge(edg) for edg in json_data]
+            edges = list(filter(None, edges))
+            return edges
+        else:
+            return None
     def from_document(
         self, doc: Document, order: Union[int, None] = None
     ) -> List[Edge]:
         verbose_logger.info(f"Using Ontology:\n{self._ontology}")
         graph = self.from_text(doc.text)
-        for edge in graph:
-            edge.metadata = doc.metadata
-            edge.order = order
-        return graph
+        
+        if graph is not None:
+            for edge in graph:
+                edge.metadata = doc.metadata
+                edge.order = order
+            return graph
+        else:
+            return None
 
     def from_documents(
         self,
@@ -155,11 +161,13 @@ class GraphMaker:
             ## order defines the chronology or the order in which the documents should in interpretted.
             order = getattr(doc, order_attribute) if order_attribute else index
             green_logger.info(f"Document: {index+1}")
+            green_logger.info(f"Document Text: {doc.text}")
             subgraph = self.from_document(doc, order)
-            graph = [*graph, *subgraph]
-            if delay_s_between > 0:
-                green_logger.info(
-                    f"Waiting for {delay_s_between}s before the next request ... "
-                )
-                time.sleep(delay_s_between)
+            if subgraph is not None:
+                graph = [*graph, *subgraph]
+                if delay_s_between > 0:
+                    green_logger.info(
+                        f"Waiting for {delay_s_between}s before the next request ... "
+                    )
+                    time.sleep(delay_s_between)
         return graph

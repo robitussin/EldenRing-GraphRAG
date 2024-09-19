@@ -1,3 +1,6 @@
+from knowledge_graph_maker import Edge, Node
+
+edgelist = [
 Edge(node_1=Node(label='Miscellaneous', name='Lore') ,node_2=Node(label='Place', name='Elden Ring') ,relationship='Lore contains information related to the world of Elden Ring.' ,metadata={'summary': 'Lore in Elden Ring encompasses all the information about its world.', 'generated_at': '2024-09-18 17:05:35.996718'} ,order=0),
 Edge(node_1=Node(label='Miscellaneous', name='Lore') ,node_2=Node(label='Miscellaneous', name='Elden Ring') ,relationship='Lore contains information related to the mythos of Elden Ring.' ,metadata={'summary': 'Lore in Elden Ring encompasses the mythos and background information of the game.', 'generated_at': '2024-09-18 17:05:35.996718'} ,order=1),
 Edge(node_1=Node(label='Miscellaneous', name='Lore') ,node_2=Node(label='Event', name='past events') ,relationship='Lore includes past events that occurred long ago.' ,metadata={'summary': "Elden Ring's lore encompasses historical events from the distant past.", 'generated_at': '2024-09-18 17:05:35.996718'} ,order=2),
@@ -1635,4 +1638,4 @@ Edge(node_1=Node(label='Faction', name='Haligtree Soldiers') ,node_2=Node(label=
 Edge(node_1=Node(label='Faction', name='Haligtree Soldiers') ,node_2=Node(label='Miscellaneous', name='lord') ,relationship='Haligtree Soldiers are waiting for their lord to return.' ,metadata={'summary': 'The Haligtree Soldiers are stationed in the Haligtree, awaiting the return of their lord.', 'generated_at': '2024-09-18 17:05:35.996718'} ,order=1058),
 Edge(node_1=Node(label='Place', name='Haligtree') ,node_2=Node(label='Person', name='Miquella') ,relationship='Miquella created Haligtree.' ,metadata={'summary': 'The Haligtree was created by Miquella.', 'generated_at': '2024-09-18 17:05:35.996718'} ,order=1059),
 Edge(node_1=Node(label='Place', name='Haligtree') ,node_2=Node(label='Faction', name='Albinaurics') ,relationship='Haligtree is said to be the promised land of the Albinaurics.' ,metadata={'summary': 'The Haligtree is considered the promised land for the Albinaurics.', 'generated_at': '2024-09-18 17:05:35.996718'} ,order=1060),
-Edge(),
+]

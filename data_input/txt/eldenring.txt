@@ -27,7 +27,6 @@ The Lands Between is divided into 7 distinct areas,
 - The River Kingdoms (underground) 
 - Each overseen by a Demigod, and features a central "overworld" that connects all of these areas. According to an interview with Miyazaki, players will have total freedom as to the order they want to tackle for each area, and it is up to the player on how they want to approach it. The hub area similar to Firelink Shrine or Majula in previous games will not be accessible at the beginning of the game, which means you will need to progress the game until you reach the hub area.
 
-------------------------------------------------
 Elden Ring Character Lore
 
 The Tarnished
@@ -240,7 +239,6 @@ Rykard had a hand in the Night of the Black Knives, though to what extent is unc
 The ancient people of Mt. Gelmir worshipped a powerful serpent god that they would offer up sacrifices to. Rykard one day encountered the God-Devouring Serpent and offered himself and his Great Rune up as sacrifices to grant himself immortality, allowing him to grow and devour people and gods alike for all eternity. This fall into greed and glutinous depravity caused most of his followers to turn against him, with Tanith being a notable exception. Those who were once Gelmir Knights sought out the Serpent-Hunter, a great spear designed to hunt the immortal serpent, to put an end to their Lord. They found the mythical weapon, but were unsuccessful in defeating Rykard, as evident from the corpses holding the Serpent-Hunter in his boss room.
 When the Tarnished visits the Volcano Manor, they can find it's members following Rykard's blasphemous path. It is later revealed that those who proved themselves as recusants were granted an audience with Rykard and became part of the family - that is by being devoured by the great serpent himself.
 
-------------------------------------------------
 Elden Ring Covenants
 Covenants are replaced by Accords or informal NPC Factions in Elden Ring. Players can select allegiances or pledges undertaken to specific deities or groups of NPCs. It should be noted that the traditional sense of Dark Souls Covenants is NOT what you will come across in the Lands Between, rather, there are groups of NPCs around the world that you can choose to aid and in doing so, slowly raises your rewards and bonds with these people.
 It was in fact confirmed that traditional Covenants were not going to be in Elden Ring by Miyazaki himself to make PvP more accessible, and that it would be replaced with the Summoning Pools and various fingers etc.
@@ -355,7 +353,6 @@ Hyetta
 Nomadic Merchants
 Three Fingers
 Shabriri
-
 
 Primeval Sorcerers
 Of all the schools of magic, only scholarly endeavors on the Primeval Current are forbidden in the Academy of Raya Lucaria. Those who do are punished by transforming into a ball-like form. Despite this threat, few scholars, including the Sorceress Sellen, insist on learning the secrets of the Primeval Current.
