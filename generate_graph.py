@@ -11,17 +11,14 @@ from knowledge_graph_maker import Neo4jGraphModel
 os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 os.environ["GROQ_API_KEY"] = "TEST"
 os.environ["NEO4J_USERNAME"] = "neo4j"
-os.environ["NEO4J_PASSWORD"] = "abc123456"
+os.environ["NEO4J_PASSWORD"] = "12345678"
 os.environ["NEO4J_URI"]= "bolt://localhost:7687"
 
 # Pydantic data class
 class Sentences(BaseModel):
     sentences: List[str]
 
-def hello():
-    return "hello sly"
-    
-def get_propositions(text: str):
+def get_propositions(text: str, proposition_list: List[str]):
     obj = hub.pull("wfh/proposal-indexing")
 
     chunking_llm = ChatOpenAI(
@@ -38,17 +35,18 @@ def get_propositions(text: str):
     # Extraction
     structured_llm = chunking_llm.with_structured_output(Sentences)
 
-    text = text.split("\n\n")
-
-    proposition_list = []
+    text = text.split(".")
 
     for t in text:
-        runnable_output = runnable.invoke({
-            "input": text
-        }).content
         
-        propositions = structured_llm.invoke(runnable_output).sentences
-        proposition_list.append(propositions)
+        if t:
+            print("t:",t)
+            runnable_output = runnable.invoke({
+                "input": t
+            }).content
+        
+            propositions = structured_llm.invoke(runnable_output).sentences
+            proposition_list.extend(propositions)
 
     return proposition_list
 
@@ -71,7 +69,7 @@ def generate(proposition_list: List[str]):
     labels=[
         {"Person": "Person name without any adjectives, Remember a person may be referenced by their name or using a pronoun"},
         {"Object": "Objects are inanimate things that a person uses, Do not add the definite article 'the' in the object name"},
-        {"Event": "Event involving multiple persons. Do not include qualifiers or verbs like gives, leaves, works etc."},
+        {"Event": "An entity that happens at a specific time and place"},
         {"Place": "Places are locations where specific events took place and where persons can go to and where objects can be found"},
         {"Miscellaneous": "Any important concept can not be categorised with any other given label"},
     ],

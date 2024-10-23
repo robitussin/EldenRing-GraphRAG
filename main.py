@@ -37,41 +37,70 @@ neo4j_url = "bolt://localhost:7687"
 neo4j_user = "neo4j"
 neo4j_password = "12345678"
 
+# cypher_generation_template = """
+# You are an expert Neo4j Cypher translator who converts English to Cypher based on the Neo4j Schema provided, following the instructions below:
+# 1. Generate Cypher query compatible ONLY for Neo4j Version 5
+# 2. Do not use EXISTS, SIZE, HAVING keywords in the cypher. Use alias when using the WITH keyword
+# 3. Use only nodes and relationships mentioned in the schema
+# 4. Always do a case-insensitive and fuzzy search for any properties related search. Eg: to search for a Person named John, use `toLower(entity.name) contains 'john'`. 
+# 5. Never use relationships that are not mentioned in the given schema
+# 6. When asked about entities, Match the properties using case-insensitive matching, E.g, to find a person named John, use `toLower(entity.name) contains 'john'`.
+# 7. When asked about a person, Match the label property with the word "person", E.g, to find a person, use `toLower(entity.label) = 'person'`.
+# 8. When asked about a place, Match the label property with the word "place", E.g, to find a place, use `toLower(entity.label) = 'place'`.
+# 9. When asked about a object, Match the label property with the word "object", E.g, to find an object, use `toLower(entity.label) = 'object'`.
+# 10. When asked about a event, Match the label property with the word "event", E.g, to find an event, use `toLower(entity.label) = 'event'`.
+# 11. When asked about a miscellaneous entity, Match the label property with the word "miscellaneous", E.g, to find a miscellaneous entity, use `toLower(entity.label) = 'miscellaneous'`.
+# 12. If a person, place, object, event or a miscellaneous entity does not match an entity in the graph, Try matching the description property or the metadata property of a relationship using case-insensitive matching, E.g, to find information about Joe, use toLower(r.description) contains 'joe' OR toLower(r.metadata) contains 'joe'.
+# 13. When asked about any information of an entity, Do not simply give the entity label. Try to get the answer from the entity's relationship description or metadata property
+
+# schema: {schema}
+
+# Question: {question}
+# """
+
 # Cypher generation prompt
 cypher_generation_template = """
 You are an expert Neo4j Cypher translator who converts English to Cypher based on the Neo4j Schema provided, following the instructions below:
 1. Generate Cypher query compatible ONLY for Neo4j Version 5
 2. Do not use EXISTS, SIZE, HAVING keywords in the cypher. Use alias when using the WITH keyword
 3. Use only nodes and relationships mentioned in the schema
-4. Always do a case-insensitive and fuzzy search for any properties related search. Eg: to search for a Person, use `toLower(entity.name) contains 'neo4j'`. 
+4. Always do a case-insensitive and fuzzy search for any properties related search. Eg: to search for a Person named John, use `toLower(entity.name) contains 'john'`. 
 5. Never use relationships that are not mentioned in the given schema
-6. When asked about entities, Match the properties using case-insensitive matching, E.g, to find a person named Radagon , use `toLower(entity.name) contains 'radagon'`.
-7. When asked about a person, Match the label property with the word "person", E.g, to find a person named Marika , use `toLower(entity.label) = 'person'`.
-7. When asked about a place, Match the label property with the word "place", E.g, to find a place named limgrave , use `toLower(entity.label) = 'place'`.
-8. If a person, place, object or event does not match an entity, Try matching the description property or the metadata property of a relationship using case-insensitive matching, E.g, to find information about Blackguard Big Boggart, use toLower(r.description) contains 'blackguard big boggart' OR toLower(r.metadata) contains 'blackguard big boggart'.
-9. When asked about any information of an entity, Do not simply give the entity label. Try to get the answer from the entity's relationship description or metadata property
+6. When asked about entities, Match the properties using case-insensitive matching, E.g, to find a person named John, use `toLower(entity.name) contains 'john'`.
+7. If a person, place, object, event or a miscellaneous entity does not match an entity in the graph, Try matching the description property or the metadata property of a relationship using case-insensitive matching, E.g, to find information about Joe, use toLower(r.description) contains 'joe' OR toLower(r.metadata) contains 'joe'.
+8. When asked about any information of an entity, Do not simply give the entity label. Try to get the answer from the entity's relationship description or metadata property
+9. Use regex to help find an entity that contains multiple words, E.g, to find a the 'Notre Dame Main Building', use toLower(e.name) =~ '.*\\\\b(not|notre|dame|main|building)\\\\b.*'
+10. When using MATCH traverse the relationship in both directions, E.g, (e:Entity)-[r:RELATED]-(re:Entity)
 
 schema: {schema}
 
 Examples:
-Question: Who is Blackguard Big Boggart?
-MATCH (e:Entity)-[r:RELATED]->(re:Entity)
-WHERE toLower(r.description) CONTAINS 'blackguard big boggart'
-OR toLower(r.metadata) CONTAINS 'blackguard big boggart'
+Question: Who is John?
+Answer:
+MATCH (e:Entity)-[r:RELATED]-(re:Entity)
+WHERE toLower(r.description) CONTAINS 'john'
+OR toLower(r.metadata) CONTAINS 'john'
 RETURN e.name, r.metadata, r.description, re.name
 
-Question: Where is Limgrave?
-MATCH (e:Entity)-[r:RELATED]->(re:Entity)
-WHERE toLower(e.label) = 'place' AND toLower(e.name) = "limgrave"
+Question: Where is Manila?
+Answer: 
+MATCH (e:Entity)-[r:RELATED]-(re:Entity)
+WHERE toLower(e.name) = 'manila'
 RETURN e.name, r.metadata, r.description, re.name
 
-Question: List all the locations in elden ring
-Answer: ```MATCH (e:Entity)
-WHERE e.label ="Place"
-RETURN e```
+Question: List all the places mentioned in the document
+Answer: 
+MATCH (e:Entity)
+WHERE e.label = place;
+RETURN e
+
+Question: Describe the Notre Dame main building
+MATCH (e:Entity)-[r:RELATED]-(re:Entity)
+WHERE toLower(e.name) =~ '.*\\\\b(not|notre|dame|main|building)\\\\b.*'
+RETURN e.name, r.metadata, r.description, re.name
 
 Question: {question}
-"""
+# """
 
 cypher_prompt = PromptTemplate(
     template = cypher_generation_template,
@@ -119,7 +148,7 @@ def refine_query(previous_query, user_input):
    cypher_refine_template += """
    Problem:
    The above Cypher Query returned no results. 
-   I need to refine this query to achieve to answer the question {question}: 
+   I need to refine this query to achieve to answer the question "{question}": 
 
    Schema: {schema}
 

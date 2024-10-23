@@ -1,0 +1,84 @@
+Question: What sits on top of the Main Building at Notre Dame?
+Model Answer: Atop the Main Building at Notre Dame is a gold dome, which features a golden statue.
+Real Answer: a golden statue of the Virgin Mary
+
+Question: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?
+Model Answer: The Virgin Mary allegedly appeared to Saint Bernadette Soubirous in 1858 in Lourdes, France.
+Real Answer: Saint Bernadette Soubirous
+
+Question: What is in front of the Notre Dame Main Building?
+Model Answer: In front of the Notre Dame Main Building, there is a copper statue of Christ. This statue is positioned so that it faces the Main Building.
+Real Answer: a copper statue of Christ
+
+Question: The Basilica of the Sacred heart at Notre Dame is beside to which structure?
+Model Answer: The Basilica of the Sacred Heart is located next to the Main Building at Notre Dame.
+Real Answer: the Main Building
+
+Question: What is the Grotto at Notre Dame?
+Model Answer: The Grotto at Notre Dame is a Marian place of prayer and reflection, located immediately behind the basilica. It serves as a serene space for individuals seeking spiritual solace and contemplation. Additionally, it is situated near Columba Hall, enhancing its accessibility for visitors and students alike.
+Real Answer: a Marian place of prayer and reflection
+
+Question: What sits on top of the Main Building at Notre Dame?
+Model Answer: Atop the Main Building at Notre Dame, there is a gold dome. Additionally, a golden statue is positioned on top of this dome.
+Real Answer: a golden statue of the Virgin Mary
+
+Question: When did the Scholastic Magazine of Notre dame begin publishing?
+Model Answer: I don't know the answer.
+Real Answer: September 1876
+
+Question: How often is Notre Dame's the Juggler published?
+Model Answer: The Juggler, associated with Notre Dame, is published twice a year.
+Real Answer: twice
+
+Question: What is the daily student paper at Notre Dame called?
+Model Answer: The daily student paper at Notre Dame is called "The Observer."
+Real Answer: The Observer
+
+Question: How many student news papers are found at Notre Dame?
+Model Answer: At Notre Dame, there are three student-run newspapers among the nine student-run outlets.
+Real Answer: three
+
+Question: In what year did the student paper Common Sense begin publication at Notre Dame?
+Model Answer: Common Sense began publication at Notre Dame in 1987.
+Real Answer: 1987
+
+Question: Where is the headquarters of the Congregation of the Holy Cross?
+Model Answer: The headquarters of the Congregation of the Holy Cross is located in Rome.
+Real Answer: Rome
+
+Question: What is the primary seminary of the Congregation of the Holy Cross?
+Model Answer: I don't know the answer.
+Real Answer: Moreau Seminary
+
+Question: What is the oldest structure at Notre Dame?
+Model Answer: The oldest structure at Notre Dame is the students, who are involved in running various news media outlets.
+Real Answer: Old College
+
+Question: What individuals live at Fatima House at Notre Dame?
+Model Answer: At Fatima House, retired brothers and retired priests reside.
+Real Answer: Retired priests and brothers
+
+Question: Which prize did Frederick Buechner create?
+Model Answer: I don't know the answer.
+Real Answer: Buechner Prize for Preaching
+
+Question: How many BS level degrees are offered in the College of Engineering at Notre Dame?
+Model Answer: I don't know the answer.
+Real Answer: eight
+
+Question: In what year was the College of Engineering at Notre Dame formed?
+Model Answer: I don't know the answer.
+Real Answer: 1920
+
+Question: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?
+Model Answer: Before the creation of the College of Engineering, similar studies were carried out at the College of Science. Early courses in both civil and mechanical engineering were part of the College of Science since the 1870s.
+Real Answer: the College of Science
+
+Question: How many departments are within the Stinson-Remick Hall of Engineering?
+Model Answer: I don't know the answer.
+Real Answer: five
+
+Question: The College of Science began to offer civil engineering courses beginning at what time at Notre Dame?
+Model Answer: I don't know the answer.
+Real Answer: the 1870s
+
